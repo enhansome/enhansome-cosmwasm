@@ -1,0 +1,633 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CosmWasm framework",
+          "description": "a \"core\" CosmWasm repo. This includes the core Rust framework for writing a smart contract, a virtual machine that runs smart contracts and is embedded in any chain running them, the IDL format for describing the interface of a smart contract, and more! A few of these are commonly dependencies of smart contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-19T11:52:42Z",
+            "owner": "CosmWasm",
+            "repo": "cosmwasm",
+            "stars": 1148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CosmWasm template",
+          "description": "a template for getting an empty smart contract up and running quickly. Instructions included!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-01-16T15:30:01Z",
+            "owner": "CosmWasm",
+            "repo": "cw-template",
+            "stars": 297
+          }
+        }
+      ],
+      "title": "General Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cosmwasm-std",
+          "description": "(repo): The standard library for building CosmWasm smart contracts. Code in this package is compiled into the smart contract.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-19T11:52:42Z",
+            "owner": "CosmWasm",
+            "repo": "cosmwasm",
+            "stars": 1148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cosmwasm-schema",
+          "description": "(repo): A dependency for CosmWasm contracts to generate the IDL (interface description) files. These are consumed e.g. by to automagically get a TypeScript client for your contract.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-19T11:52:42Z",
+            "owner": "CosmWasm",
+            "repo": "cosmwasm",
+            "stars": 1148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cw-multi-test",
+          "description": "(repo):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-19T15:03:33Z",
+            "owner": "CosmWasm",
+            "repo": "cw-multi-test",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cw-storage-plus",
+          "description": "(repo): Helper methods to reduce boilerplate for storing data types. Easier and more secure persistence layer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-23T13:11:44Z",
+            "owner": "CosmWasm",
+            "repo": "cw-storage-plus",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "CosmWasm Framework"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cw-coins",
+          "description": "(repo): A helper for managing multiple coins in a smart contract.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-08-14T15:14:38Z",
+            "owner": "larry0x",
+            "repo": "cw-plus-plus",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cw-item-set",
+          "description": "(repo): A equivalent (set of unique items) that can be stored in smart contract storage.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-08-14T15:14:38Z",
+            "owner": "larry0x",
+            "repo": "cw-plus-plus",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cw-utils",
+          "description": "(repo): A collection of (somewhat random) helpers we found useful when developing contracts and specs. Available as a library at crates.io!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-13T15:04:28Z",
+            "owner": "CosmWasm",
+            "repo": "cw-minus",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Smart Contract Libraries"
+    },
+    {
+      "description": "Before you create a PR to add your contract here, read the publishing guidelines and make sure you complete them all, specifically adding an OSI-approved license and checking in valid artifacts for the build (, ).\nWe do validate the artifacts and perform a basic code review of contracts included in this list. However, nothing terribly comprehensive and inclusion here should not be taken in lieu of a proper audit. We do provide some guidelines on sharing code reviews in a decentralized manner which can be used as the basis for a peer-reviewed audit.",
+      "items": [],
+      "title": "Smart Contracts"
+    },
+    {
+      "description": "The repo houses both protocol specifications and their reference implementations. These implementations are meant both as examples of production-ready contracts and pieces you might like to use in your project as they are.",
+      "items": [],
+      "title": "Specifications and Examples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cw1",
+          "description": "proxy contracts that are meant to forward a message (probably after checking the sender against some form of access control), this time with the contract as the sender.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-26T13:38:12Z",
+            "owner": "CosmWasm",
+            "repo": "cw-plus",
+            "stars": 527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cw2",
+          "description": "contract metadata (name and version) that can be inspected directly, without querying the contract.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-26T13:38:12Z",
+            "owner": "CosmWasm",
+            "repo": "cw-plus",
+            "stars": 527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cw3",
+          "description": "multisig and voting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-26T13:38:12Z",
+            "owner": "CosmWasm",
+            "repo": "cw-plus",
+            "stars": 527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cw4",
+          "description": "group membership management with weights.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-26T13:38:12Z",
+            "owner": "CosmWasm",
+            "repo": "cw-plus",
+            "stars": 527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cw20",
+          "description": "fungible token.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-26T13:38:12Z",
+            "owner": "CosmWasm",
+            "repo": "cw-plus",
+            "stars": 527
+          }
+        }
+      ],
+      "title": "Specifications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cw1-whitelist",
+          "description": "by ethanfrey: This may be the simplest implementation of cw1, a whitelist of addresses. It contains a set of admins that are defined upon creation. Any of those admins may Execute any message via the contract, per the CW1 spec.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-26T13:38:12Z",
+            "owner": "CosmWasm",
+            "repo": "cw-plus",
+            "stars": 527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cw1-subkeys",
+          "description": "by ethanfrey: This builds on cw1-whitelist to provide the first non-trivial solution. It still works like cw1-whitelist with a set of admins (typically 1) which have full control of the account. However, you can then grant a number of accounts allowances to send native tokens from this account.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-26T13:38:12Z",
+            "owner": "CosmWasm",
+            "repo": "cw-plus",
+            "stars": 527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cw3-fixed-multisig",
+          "description": "This is a simple implementation of the cw3 spec. It is a multisig with a fixed set of addresses created upon initialization. Each address may have the same weight (K of N) or some may have extra voting power.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-26T13:38:12Z",
+            "owner": "CosmWasm",
+            "repo": "cw-plus",
+            "stars": 527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cw3-flex-multisig",
+          "description": "This builds on cw3-fixed-multisig with a more powerful implementation of the cw3 spec. It is a multisig contract that is backed by a cw4 (group) contract, which independently maintains the voter set.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-26T13:38:12Z",
+            "owner": "CosmWasm",
+            "repo": "cw-plus",
+            "stars": 527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cw4-group",
+          "description": "This is a basic implementation of the cw4 spec. It fulfills all elements of the spec, including the raw query lookups, and it designed to be used as a backing storage for cw3 compliant contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-26T13:38:12Z",
+            "owner": "CosmWasm",
+            "repo": "cw-plus",
+            "stars": 527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cw4-stake",
+          "description": "This is a second implementation of the cw4 spec. It fulfills all elements of the spec, including the raw query lookups, and it is designed to be used as a backing storage for cw3 compliant contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-26T13:38:12Z",
+            "owner": "CosmWasm",
+            "repo": "cw-plus",
+            "stars": 527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cw20-base",
+          "description": "by ethanfrey: Basic implementation of a cw20 contract. It implements the cw20 spec and is designed to be deloyed as is, or imported into other contracts to easily build cw20-compatible tokens with custom logic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-26T13:38:12Z",
+            "owner": "CosmWasm",
+            "repo": "cw-plus",
+            "stars": 527
+          }
+        }
+      ],
+      "title": "Reference implementations"
+    },
+    {
+      "description": "These contracts demonstrate best practices and learning references. Please do not use them in production as is. You are welcome to fork them, and independently review, refine and audit them, using them as a basis for your protocol. Or just as inspiration",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cw-nfts",
+          "description": "non-fungible tokens. Official repository for all work on NFT standards and reference contracts. This is where the lives.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-01T16:03:02Z",
+            "owner": "public-awesome",
+            "repo": "cw-nfts",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cw-tokens",
+          "description": "a few other cw20 (fungible token) contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-01-26T20:54:28Z",
+            "owner": "CosmWasm",
+            "repo": "cw-tokens",
+            "stars": 90
+          }
+        }
+      ],
+      "title": "Other Contracts"
+    },
+    {
+      "description": "These projects/contracts are developed and maintained by CosmWasm community.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DA0-DA0/dao-contracts",
+          "description": "DAO DAO is the leading software to build your own DAO on CosmWasm chains, quickly surpassing Aragon in functionality",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-28T14:43:51Z",
+            "owner": "DA0-DA0",
+            "repo": "dao-contracts",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "astroport-fi/astroport-core",
+          "description": "Astroport is a multi pool type automated market-maker (AMM) protocol, it is one of the leading DEX on Terra.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-09T09:28:14Z",
+            "owner": "astroport-fi",
+            "repo": "astroport-core",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AbstractSDK/abstract",
+          "description": "Abstract is a development platform with a focus on code reusability and application sovereignty.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-05T21:25:46Z",
+            "owner": "AbstractSDK",
+            "repo": "abstract",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "public-awesome/launchpad",
+          "description": "Stargaze provides contracts to easily create and manage new NFT collections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-24T10:06:26Z",
+            "owner": "public-awesome",
+            "repo": "launchpad",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "srdtrk/cw-ica-controller",
+          "description": "A controller contract for the Interchain Accounts (ICS-27) spec. It allows users to create and manage interchain accounts on host chains that support the golang implementation of ICS-27.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-10-27T07:20:44Z",
+            "owner": "srdtrk",
+            "repo": "cw-ica-controller",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mars-protocol/v1-core",
+          "description": "Delphi's \"Mars Protocol\" is the leading lending protocol on Terra, Osmosis, and soon launching on Neutron.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "CronCats/cw-croncat",
+          "description": "Croncat provides a general purpose, fully autonomous network that enables scheduled function calls for blockchain contract execution. It allows any application to schedule logic to get executed in the future, once or many times, triggered by an approved “agent,” in an economically stable format.",
+          "children": []
+        }
+      ],
+      "title": "External Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cosmology-tech/create-cosmos-app",
+          "description": "set up a modern Cosmos app with one command, ready to be iterated on.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-11T06:49:18Z",
+            "owner": "hyperweb-io",
+            "repo": "create-cosmos-app",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cosmwasm/rust-optimizer",
+          "description": "This is a Docker build with a locked set of dependencies to produce reproducible builds of cosmwasm smart contracts. It also does heavy optimization on the build size, using binary stripping and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-06-26T09:19:12Z",
+            "owner": "CosmWasm",
+            "repo": "optimizer",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cosmwasm/ts-codegen",
+          "description": "Convert your CosmWasm smart contracts into dev-friendly TypeScript classes so you can focus on shipping code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-09T16:10:43Z",
+            "owner": "hyperweb-io",
+            "repo": "ts-codegen",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "beaker",
+          "description": "A toolkit that simplifies interactions with CosmWasm smart contracts which offers scaffolding, deployment, upgrades, execution, querying, an interactive console, and task scripting capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-01-22T13:39:25Z",
+            "owner": "osmosis-labs",
+            "repo": "beaker",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cw-orchestrator",
+          "description": "A Rust-oriented CosmWasm scripting library that features a clean and unified syntax for interacting with contracts in any environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-05T21:24:25Z",
+            "owner": "AbstractSDK",
+            "repo": "cw-orchestrator",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mandrean/cw-optimizoor",
+          "description": "A very fast alternative to for local development and testing. Written in Rust, no dependency on Docker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-22T21:52:51Z",
+            "owner": "mandrean",
+            "repo": "cw-optimizoor",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terran-One/cosmwasm-vm-js",
+          "description": "A JavaScript runtime for running CosmWasm contracts in Node.js or the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-09T12:58:46Z",
+            "owner": "hyperweb-io",
+            "repo": "cosmwasm-vm-js",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cosmwasm devtools",
+          "description": "(repo) - A web-based console for interacting with CosmWasm smart contracts deployed locally or remotely. Can use Keplr account or generate new addresses as needed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-07T08:11:53Z",
+            "owner": "aswever",
+            "repo": "cosmwasm-devtools",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "srdtrk/go-codegen",
+          "description": "A Go code generator for CosmWasm contracts. The quickest way to generate Go code for your CosmWasm smart contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-07-12T18:16:30Z",
+            "owner": "srdtrk",
+            "repo": "go-codegen",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cosmwasm Studio",
+          "description": "Monaco IDE that supports CosmWasm. It allows developers to code, build smart contracts and execute functions through a simulation. It supports its own rust-analyzer in Web Assembly so developers can code it the same as local VS Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-12-07T10:49:53Z",
+            "owner": "oraichain",
+            "repo": "smart-studio",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cosmwasm-tools",
+          "description": "A super fast and cross-platform alternative to that produces optimized wasm files. Written in Typescript, supporting watch mode, parallel builds, and ts-codegen sharing common dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-12T09:16:16Z",
+            "owner": "oraichain",
+            "repo": "cosmwasm-tools",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Tooling"
+    },
+    {
+      "description": "Looking for dApps to feature. See #19.",
+      "items": [],
+      "title": "dApps"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T14:39:01.010Z",
+    "original_repository": "CosmWasm/awesome-cosmwasm",
+    "original_repository_sha": "b57d08cfcce64ffa72c779ff73306b191bc54765",
+    "enhanced_repository": "enhansome/enhansome-cosmwasm",
+    "enhanced_repository_description": null,
+    "title": "Awesome CosmWasm with stars"
+  }
+}
