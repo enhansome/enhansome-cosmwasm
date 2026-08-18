@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T13:09:01Z",
+            "last_commit": "2026-08-17T14:08:49Z",
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1147
+            "stars": 1146
           }
         },
         {
@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T13:09:01Z",
+            "last_commit": "2026-08-17T14:08:49Z",
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1147
+            "stars": 1146
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T13:09:01Z",
+            "last_commit": "2026-08-17T14:08:49Z",
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1147
+            "stars": 1146
           }
         },
         {
@@ -623,7 +623,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:04:51.738Z",
+    "last_updated": "2026-08-18T14:16:18.989Z",
     "original_repository": "CosmWasm/awesome-cosmwasm",
     "original_repository_sha": "b57d08cfcce64ffa72c779ff73306b191bc54765",
     "enhanced_repository": "enhansome/enhansome-cosmwasm",
