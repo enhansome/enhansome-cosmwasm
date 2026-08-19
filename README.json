@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 212116761,
             "language": "Rust",
             "last_commit": "2026-08-17T14:08:49Z",
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1146
+            "stars": 1145
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 214116143,
             "language": "Rust",
             "last_commit": "2025-01-16T15:30:01Z",
             "owner": "CosmWasm",
@@ -35,7 +37,7 @@
       "title": "General Resources"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 212116761,
             "language": "Rust",
             "last_commit": "2026-08-17T14:08:49Z",
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1146
+            "stars": 1145
           }
         },
         {
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 212116761,
             "language": "Rust",
             "last_commit": "2026-08-17T14:08:49Z",
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1146
+            "stars": 1145
           }
         },
         {
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 553051640,
             "language": "Rust",
             "last_commit": "2026-02-19T15:03:33Z",
             "owner": "CosmWasm",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 552928286,
             "language": "Rust",
             "last_commit": "2026-02-23T13:11:44Z",
             "owner": "CosmWasm",
@@ -97,7 +103,7 @@
       "title": "CosmWasm Framework"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -106,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 534870693,
             "language": "Rust",
             "last_commit": "2024-08-14T15:14:38Z",
             "owner": "larry0x",
@@ -120,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 534870693,
             "language": "Rust",
             "last_commit": "2024-08-14T15:14:38Z",
             "owner": "larry0x",
@@ -134,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 553087181,
             "language": "Rust",
             "last_commit": "2026-01-13T15:04:28Z",
             "owner": "CosmWasm",
@@ -146,227 +155,247 @@
     },
     {
       "description": "Before you create a PR to add your contract here, read the publishing guidelines and make sure you complete them all, specifically adding an OSI-approved license and checking in valid artifacts for the build (, ).\nWe do validate the artifacts and perform a basic code review of contracts included in this list. However, nothing terribly comprehensive and inclusion here should not be taken in lieu of a proper audit. We do provide some guidelines on sharing code reviews in a decentralized manner which can be used as the basis for a peer-reviewed audit.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "cw1",
+                  "description": "proxy contracts that are meant to forward a message (probably after checking the sender against some form of access control), this time with the contract as the sender.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 272626471,
+                    "language": "Rust",
+                    "last_commit": "2026-06-26T13:38:12Z",
+                    "owner": "CosmWasm",
+                    "repo": "cw-plus",
+                    "stars": 527
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cw2",
+                  "description": "contract metadata (name and version) that can be inspected directly, without querying the contract.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 272626471,
+                    "language": "Rust",
+                    "last_commit": "2026-06-26T13:38:12Z",
+                    "owner": "CosmWasm",
+                    "repo": "cw-plus",
+                    "stars": 527
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cw3",
+                  "description": "multisig and voting.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 272626471,
+                    "language": "Rust",
+                    "last_commit": "2026-06-26T13:38:12Z",
+                    "owner": "CosmWasm",
+                    "repo": "cw-plus",
+                    "stars": 527
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cw4",
+                  "description": "group membership management with weights.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 272626471,
+                    "language": "Rust",
+                    "last_commit": "2026-06-26T13:38:12Z",
+                    "owner": "CosmWasm",
+                    "repo": "cw-plus",
+                    "stars": 527
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cw20",
+                  "description": "fungible token.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 272626471,
+                    "language": "Rust",
+                    "last_commit": "2026-06-26T13:38:12Z",
+                    "owner": "CosmWasm",
+                    "repo": "cw-plus",
+                    "stars": 527
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Specifications"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "cw1-whitelist",
+                  "description": "by ethanfrey: This may be the simplest implementation of cw1, a whitelist of addresses. It contains a set of admins that are defined upon creation. Any of those admins may Execute any message via the contract, per the CW1 spec.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 272626471,
+                    "language": "Rust",
+                    "last_commit": "2026-06-26T13:38:12Z",
+                    "owner": "CosmWasm",
+                    "repo": "cw-plus",
+                    "stars": 527
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cw1-subkeys",
+                  "description": "by ethanfrey: This builds on cw1-whitelist to provide the first non-trivial solution. It still works like cw1-whitelist with a set of admins (typically 1) which have full control of the account. However, you can then grant a number of accounts allowances to send native tokens from this account.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 272626471,
+                    "language": "Rust",
+                    "last_commit": "2026-06-26T13:38:12Z",
+                    "owner": "CosmWasm",
+                    "repo": "cw-plus",
+                    "stars": 527
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cw3-fixed-multisig",
+                  "description": "This is a simple implementation of the cw3 spec. It is a multisig with a fixed set of addresses created upon initialization. Each address may have the same weight (K of N) or some may have extra voting power.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 272626471,
+                    "language": "Rust",
+                    "last_commit": "2026-06-26T13:38:12Z",
+                    "owner": "CosmWasm",
+                    "repo": "cw-plus",
+                    "stars": 527
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cw3-flex-multisig",
+                  "description": "This builds on cw3-fixed-multisig with a more powerful implementation of the cw3 spec. It is a multisig contract that is backed by a cw4 (group) contract, which independently maintains the voter set.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 272626471,
+                    "language": "Rust",
+                    "last_commit": "2026-06-26T13:38:12Z",
+                    "owner": "CosmWasm",
+                    "repo": "cw-plus",
+                    "stars": 527
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cw4-group",
+                  "description": "This is a basic implementation of the cw4 spec. It fulfills all elements of the spec, including the raw query lookups, and it designed to be used as a backing storage for cw3 compliant contracts.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 272626471,
+                    "language": "Rust",
+                    "last_commit": "2026-06-26T13:38:12Z",
+                    "owner": "CosmWasm",
+                    "repo": "cw-plus",
+                    "stars": 527
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cw4-stake",
+                  "description": "This is a second implementation of the cw4 spec. It fulfills all elements of the spec, including the raw query lookups, and it is designed to be used as a backing storage for cw3 compliant contracts.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 272626471,
+                    "language": "Rust",
+                    "last_commit": "2026-06-26T13:38:12Z",
+                    "owner": "CosmWasm",
+                    "repo": "cw-plus",
+                    "stars": 527
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cw20-base",
+                  "description": "by ethanfrey: Basic implementation of a cw20 contract. It implements the cw20 spec and is designed to be deloyed as is, or imported into other contracts to easily build cw20-compatible tokens with custom logic.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 272626471,
+                    "language": "Rust",
+                    "last_commit": "2026-06-26T13:38:12Z",
+                    "owner": "CosmWasm",
+                    "repo": "cw-plus",
+                    "stars": 527
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Reference implementations"
+            }
+          ],
+          "description": "The repo houses both protocol specifications and their reference implementations. These implementations are meant both as examples of production-ready contracts and pieces you might like to use in your project as they are.",
+          "node_type": "group",
+          "title": "Specifications and Examples"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cw-nfts",
+              "description": "non-fungible tokens. Official repository for all work on NFT standards and reference contracts. This is where the lives.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 410915331,
+                "language": "Rust",
+                "last_commit": "2026-04-01T16:03:02Z",
+                "owner": "public-awesome",
+                "repo": "cw-nfts",
+                "stars": 201
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cw-tokens",
+              "description": "a few other cw20 (fungible token) contracts.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 442531494,
+                "language": "Rust",
+                "last_commit": "2024-01-26T20:54:28Z",
+                "owner": "CosmWasm",
+                "repo": "cw-tokens",
+                "stars": 90
+              }
+            }
+          ],
+          "description": "These contracts demonstrate best practices and learning references. Please do not use them in production as is. You are welcome to fork them, and independently review, refine and audit them, using them as a basis for your protocol. Or just as inspiration",
+          "node_type": "group",
+          "title": "Other Contracts"
+        }
+      ],
       "title": "Smart Contracts"
-    },
-    {
-      "description": "The repo houses both protocol specifications and their reference implementations. These implementations are meant both as examples of production-ready contracts and pieces you might like to use in your project as they are.",
-      "items": [],
-      "title": "Specifications and Examples"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cw1",
-          "description": "proxy contracts that are meant to forward a message (probably after checking the sender against some form of access control), this time with the contract as the sender.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-26T13:38:12Z",
-            "owner": "CosmWasm",
-            "repo": "cw-plus",
-            "stars": 527
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cw2",
-          "description": "contract metadata (name and version) that can be inspected directly, without querying the contract.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-26T13:38:12Z",
-            "owner": "CosmWasm",
-            "repo": "cw-plus",
-            "stars": 527
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cw3",
-          "description": "multisig and voting.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-26T13:38:12Z",
-            "owner": "CosmWasm",
-            "repo": "cw-plus",
-            "stars": 527
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cw4",
-          "description": "group membership management with weights.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-26T13:38:12Z",
-            "owner": "CosmWasm",
-            "repo": "cw-plus",
-            "stars": 527
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cw20",
-          "description": "fungible token.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-26T13:38:12Z",
-            "owner": "CosmWasm",
-            "repo": "cw-plus",
-            "stars": 527
-          }
-        }
-      ],
-      "title": "Specifications"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cw1-whitelist",
-          "description": "by ethanfrey: This may be the simplest implementation of cw1, a whitelist of addresses. It contains a set of admins that are defined upon creation. Any of those admins may Execute any message via the contract, per the CW1 spec.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-26T13:38:12Z",
-            "owner": "CosmWasm",
-            "repo": "cw-plus",
-            "stars": 527
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cw1-subkeys",
-          "description": "by ethanfrey: This builds on cw1-whitelist to provide the first non-trivial solution. It still works like cw1-whitelist with a set of admins (typically 1) which have full control of the account. However, you can then grant a number of accounts allowances to send native tokens from this account.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-26T13:38:12Z",
-            "owner": "CosmWasm",
-            "repo": "cw-plus",
-            "stars": 527
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cw3-fixed-multisig",
-          "description": "This is a simple implementation of the cw3 spec. It is a multisig with a fixed set of addresses created upon initialization. Each address may have the same weight (K of N) or some may have extra voting power.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-26T13:38:12Z",
-            "owner": "CosmWasm",
-            "repo": "cw-plus",
-            "stars": 527
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cw3-flex-multisig",
-          "description": "This builds on cw3-fixed-multisig with a more powerful implementation of the cw3 spec. It is a multisig contract that is backed by a cw4 (group) contract, which independently maintains the voter set.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-26T13:38:12Z",
-            "owner": "CosmWasm",
-            "repo": "cw-plus",
-            "stars": 527
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cw4-group",
-          "description": "This is a basic implementation of the cw4 spec. It fulfills all elements of the spec, including the raw query lookups, and it designed to be used as a backing storage for cw3 compliant contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-26T13:38:12Z",
-            "owner": "CosmWasm",
-            "repo": "cw-plus",
-            "stars": 527
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cw4-stake",
-          "description": "This is a second implementation of the cw4 spec. It fulfills all elements of the spec, including the raw query lookups, and it is designed to be used as a backing storage for cw3 compliant contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-26T13:38:12Z",
-            "owner": "CosmWasm",
-            "repo": "cw-plus",
-            "stars": 527
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cw20-base",
-          "description": "by ethanfrey: Basic implementation of a cw20 contract. It implements the cw20 spec and is designed to be deloyed as is, or imported into other contracts to easily build cw20-compatible tokens with custom logic.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-26T13:38:12Z",
-            "owner": "CosmWasm",
-            "repo": "cw-plus",
-            "stars": 527
-          }
-        }
-      ],
-      "title": "Reference implementations"
-    },
-    {
-      "description": "These contracts demonstrate best practices and learning references. Please do not use them in production as is. You are welcome to fork them, and independently review, refine and audit them, using them as a basis for your protocol. Or just as inspiration",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "cw-nfts",
-          "description": "non-fungible tokens. Official repository for all work on NFT standards and reference contracts. This is where the lives.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-04-01T16:03:02Z",
-            "owner": "public-awesome",
-            "repo": "cw-nfts",
-            "stars": 201
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cw-tokens",
-          "description": "a few other cw20 (fungible token) contracts.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2024-01-26T20:54:28Z",
-            "owner": "CosmWasm",
-            "repo": "cw-tokens",
-            "stars": 90
-          }
-        }
-      ],
-      "title": "Other Contracts"
     },
     {
       "description": "These projects/contracts are developed and maintained by CosmWasm community.",
@@ -378,6 +407,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 402992355,
             "language": "Rust",
             "last_commit": "2026-06-28T14:43:51Z",
             "owner": "DA0-DA0",
@@ -392,6 +422,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 383415572,
             "language": "Rust",
             "last_commit": "2026-06-09T09:28:14Z",
             "owner": "astroport-fi",
@@ -406,6 +437,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 660566018,
             "language": "Rust",
             "last_commit": "2026-03-05T21:25:46Z",
             "owner": "AbstractSDK",
@@ -420,6 +452,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 462151818,
             "language": "Rust",
             "last_commit": "2026-07-24T10:06:26Z",
             "owner": "public-awesome",
@@ -434,30 +467,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 654239450,
             "language": "Go",
             "last_commit": "2024-10-27T07:20:44Z",
             "owner": "srdtrk",
             "repo": "cw-ica-controller",
             "stars": 43
           }
-        },
-        {
-          "node_type": "item",
-          "title": "mars-protocol/v1-core",
-          "description": "Delphi's \"Mars Protocol\" is the leading lending protocol on Terra, Osmosis, and soon launching on Neutron.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "CronCats/cw-croncat",
-          "description": "Croncat provides a general purpose, fully autonomous network that enables scheduled function calls for blockchain contract execution. It allows any application to schedule logic to get executed in the future, once or many times, triggered by an approved “agent,” in an economically stable format.",
-          "children": []
         }
       ],
       "title": "External Projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -466,11 +488,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 519174922,
             "language": "TypeScript",
             "last_commit": "2025-12-11T06:49:18Z",
             "owner": "hyperweb-io",
             "repo": "create-cosmos-app",
-            "stars": 167
+            "stars": 166
           }
         },
         {
@@ -480,6 +503,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 214407712,
             "language": "Rust",
             "last_commit": "2025-06-26T09:19:12Z",
             "owner": "CosmWasm",
@@ -494,6 +518,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 482346319,
             "language": "TypeScript",
             "last_commit": "2026-05-09T16:10:43Z",
             "owner": "hyperweb-io",
@@ -508,6 +533,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 491711177,
             "language": "Rust",
             "last_commit": "2024-01-22T13:39:25Z",
             "owner": "osmosis-labs",
@@ -522,6 +548,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 535318790,
             "language": "Rust",
             "last_commit": "2026-03-05T21:24:25Z",
             "owner": "AbstractSDK",
@@ -536,6 +563,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 514743596,
             "language": "Rust",
             "last_commit": "2026-03-22T21:52:51Z",
             "owner": "mandrean",
@@ -550,6 +578,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 458093727,
             "language": "TypeScript",
             "last_commit": "2023-01-09T12:58:46Z",
             "owner": "hyperweb-io",
@@ -564,6 +593,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 458665177,
             "language": "TypeScript",
             "last_commit": "2024-05-07T08:11:53Z",
             "owner": "aswever",
@@ -578,6 +608,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 754892855,
             "language": "Go",
             "last_commit": "2024-07-12T18:16:30Z",
             "owner": "srdtrk",
@@ -592,6 +623,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 346656676,
             "language": "Rust",
             "last_commit": "2023-12-07T10:49:53Z",
             "owner": "oraichain",
@@ -606,6 +638,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 585074747,
             "language": "TypeScript",
             "last_commit": "2024-11-12T09:16:16Z",
             "owner": "oraichain",
@@ -615,16 +648,12 @@
         }
       ],
       "title": "Tooling"
-    },
-    {
-      "description": "Looking for dApps to feature. See #19.",
-      "items": [],
-      "title": "dApps"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:16:18.989Z",
+    "last_updated": "2026-08-19T12:20:48.110Z",
     "original_repository": "CosmWasm/awesome-cosmwasm",
+    "original_repository_id": 230324183,
     "original_repository_sha": "b57d08cfcce64ffa72c779ff73306b191bc54765",
     "enhanced_repository": "enhansome/enhansome-cosmwasm",
     "enhanced_repository_description": null,

@@ -20,7 +20,7 @@ contribute.
 
 ## General Resources
 
-* [CosmWasm framework](https://github.com/CosmWasm/cosmwasm) ⭐ 1,146 | 🐛 43 | 🌐 Rust | 📅 2026-08-17 - a "core" CosmWasm
+* [CosmWasm framework](https://github.com/CosmWasm/cosmwasm) ⭐ 1,145 | 🐛 43 | 🌐 Rust | 📅 2026-08-17 - a "core" CosmWasm
   repo. This includes the core Rust framework for writing a smart contract, a
   virtual machine that runs smart contracts and is embedded in any chain running
   them, the IDL format for describing the interface of a smart contract, and
@@ -34,11 +34,11 @@ contribute.
 ## CosmWasm Framework
 
 * [cosmwasm-std](https://crates.io/crates/cosmwasm-std)
-  ([repo](https://github.com/CosmWasm/cosmwasm/tree/master/packages/std) ⭐ 1,146 | 🐛 43 | 🌐 Rust | 📅 2026-08-17): The
+  ([repo](https://github.com/CosmWasm/cosmwasm/tree/master/packages/std) ⭐ 1,145 | 🐛 43 | 🌐 Rust | 📅 2026-08-17): The
   standard library for building CosmWasm smart contracts. Code in this package
   is compiled into the smart contract.
 * [cosmwasm-schema](https://crates.io/crates/cosmwasm-schema)
-  ([repo](https://github.com/CosmWasm/cosmwasm/tree/master/packages/schema) ⭐ 1,146 | 🐛 43 | 🌐 Rust | 📅 2026-08-17): A
+  ([repo](https://github.com/CosmWasm/cosmwasm/tree/master/packages/schema) ⭐ 1,145 | 🐛 43 | 🌐 Rust | 📅 2026-08-17): A
   dependency for CosmWasm contracts to generate the IDL (interface description)
   files. These are consumed e.g. by
   [`ts-codegen`](https://github.com/CosmWasm/ts-codegen) ⭐ 126 | 🐛 50 | 🌐 TypeScript | 📅 2026-05-09 to automagically get a
@@ -177,7 +177,7 @@ These projects/contracts are developed and maintained by CosmWasm community.
   Stargaze provides contracts to easily create and manage new NFT collections.
 * [srdtrk/cw-ica-controller](https://github.com/srdtrk/cw-ica-controller) ⭐ 43 | 🐛 5 | 🌐 Go | 📅 2024-10-27 -
   A controller contract for the Interchain Accounts
-  ([ICS-27](https://github.com/cosmos/ibc/blob/main/spec/app/ics-027-interchain-accounts/README.md) ⭐ 1,016 | 🐛 30 | 🌐 Go | 📅 2026-08-17)
+  ([ICS-27](https://github.com/cosmos/ibc/blob/main/spec/app/ics-027-interchain-accounts/README.md) ⭐ 1,016 | 🐛 44 | 🌐 Go | 📅 2026-08-19)
   spec. It allows users to create and manage interchain accounts on host chains that support the golang
   implementation of ICS-27.
 * [mars-protocol/v1-core](https://github.com/mars-protocol/v1-core) - Delphi's
@@ -189,7 +189,7 @@ These projects/contracts are developed and maintained by CosmWasm community.
 
 ## Tooling
 
-* [cosmology-tech/create-cosmos-app](https://github.com/cosmology-tech/create-cosmos-app) ⭐ 167 | 🐛 40 | 🌐 TypeScript | 📅 2025-12-11 -
+* [cosmology-tech/create-cosmos-app](https://github.com/cosmology-tech/create-cosmos-app) ⭐ 166 | 🐛 40 | 🌐 TypeScript | 📅 2025-12-11 -
   set up a modern Cosmos app with one command, ready to be iterated on.
 * [cosmwasm/rust-optimizer](https://github.com/CosmWasm/rust-optimizer) ⭐ 146 | 🐛 11 | 🌐 Rust | 📅 2025-06-26 - This is
   a Docker build with a locked set of dependencies to produce reproducible
@@ -224,4 +224,4 @@ Looking for dApps to feature. See
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
