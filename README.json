@@ -159,6 +159,21 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "The repo",
+              "description": "houses both protocol specifications and their reference implementations. These implementations are meant both as examples of production-ready contracts and pieces you might like to use in your project as they are.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 272626471,
+                "language": "Rust",
+                "last_commit": "2026-06-26T13:38:12Z",
+                "owner": "CosmWasm",
+                "repo": "cw-plus",
+                "stars": 527
+              }
+            },
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -353,7 +368,7 @@
               "title": "Reference implementations"
             }
           ],
-          "description": "The repo houses both protocol specifications and their reference implementations. These implementations are meant both as examples of production-ready contracts and pieces you might like to use in your project as they are.",
+          "description": null,
           "node_type": "group",
           "title": "Specifications and Examples"
         },
@@ -651,7 +666,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:59:06.047Z",
+    "last_updated": "2026-08-24T14:36:49.032Z",
     "original_repository": "CosmWasm/awesome-cosmwasm",
     "original_repository_id": 230324183,
     "original_repository_sha": "b57d08cfcce64ffa72c779ff73306b191bc54765",
