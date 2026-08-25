@@ -12,7 +12,7 @@
             "archived": false,
             "id": 212116761,
             "language": "Rust",
-            "last_commit": "2026-08-17T14:08:49Z",
+            "last_commit": "2026-08-25T09:58:56Z",
             "owner": "CosmWasm",
             "repo": "cosmwasm",
             "stars": 1145
@@ -48,7 +48,7 @@
             "archived": false,
             "id": 212116761,
             "language": "Rust",
-            "last_commit": "2026-08-17T14:08:49Z",
+            "last_commit": "2026-08-25T09:58:56Z",
             "owner": "CosmWasm",
             "repo": "cosmwasm",
             "stars": 1145
@@ -63,7 +63,7 @@
             "archived": false,
             "id": 212116761,
             "language": "Rust",
-            "last_commit": "2026-08-17T14:08:49Z",
+            "last_commit": "2026-08-25T09:58:56Z",
             "owner": "CosmWasm",
             "repo": "cosmwasm",
             "stars": 1145
@@ -666,7 +666,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:21:08.295Z",
+    "last_updated": "2026-08-25T14:27:12.597Z",
     "original_repository": "CosmWasm/awesome-cosmwasm",
     "original_repository_id": 230324183,
     "original_repository_sha": "b57d08cfcce64ffa72c779ff73306b191bc54765",
