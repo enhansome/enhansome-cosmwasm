@@ -166,7 +166,7 @@ protocol. Or just as inspiration
 
 These projects/contracts are developed and maintained by CosmWasm community.
 
-* [DA0-DA0/dao-contracts](https://github.com/DA0-DA0/dao-contracts) ⭐ 218 | 🐛 78 | 🌐 Rust | 📅 2026-06-28 - DAO DAO is
+* [DA0-DA0/dao-contracts](https://github.com/DA0-DA0/dao-contracts) ⭐ 217 | 🐛 78 | 🌐 Rust | 📅 2026-06-28 - DAO DAO is
   the leading software to build your own DAO on CosmWasm chains, quickly
   surpassing Aragon in functionality
 * [astroport-fi/astroport-core](https://github.com/astroport-fi/astroport-core) ⭐ 170 | 🐛 3 | 🌐 Rust | 📅 2026-06-09 - Astroport is
