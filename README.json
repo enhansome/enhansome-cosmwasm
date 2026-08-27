@@ -666,9 +666,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:25:04.609Z",
-    "original_repository": "CosmWasm/awesome-cosmwasm",
-    "original_repository_id": 230324183,
+    "last_updated": "2026-08-27T11:31:42.057Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 230324183,
+      "language": null,
+      "last_commit": "2025-03-03T10:04:25Z",
+      "owner": "CosmWasm",
+      "repo": "awesome-cosmwasm",
+      "stars": 272
+    },
     "original_repository_sha": "b57d08cfcce64ffa72c779ff73306b191bc54765",
     "enhanced_repository": "enhansome/enhansome-cosmwasm",
     "enhanced_repository_description": null,
