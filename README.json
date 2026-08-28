@@ -15,8 +15,9 @@
             "last_commit": "2026-08-25T09:58:56Z",
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1145
-          }
+            "stars": 1144
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "CosmWasm",
             "repo": "cw-template",
             "stars": 297
-          }
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
         }
       ],
       "title": "General Resources"
@@ -51,8 +53,9 @@
             "last_commit": "2026-08-25T09:58:56Z",
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1145
-          }
+            "stars": 1144
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
         },
         {
           "node_type": "item",
@@ -66,8 +69,9 @@
             "last_commit": "2026-08-25T09:58:56Z",
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1145
-          }
+            "stars": 1144
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "CosmWasm",
             "repo": "cw-multi-test",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "CosmWasm",
             "repo": "cw-storage-plus",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
         }
       ],
       "title": "CosmWasm Framework"
@@ -118,7 +124,8 @@
             "owner": "larry0x",
             "repo": "cw-plus-plus",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "larry0x",
             "repo": "cw-plus-plus",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "CosmWasm",
             "repo": "cw-minus",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
         }
       ],
       "title": "Smart Contract Libraries"
@@ -171,7 +180,8 @@
                 "owner": "CosmWasm",
                 "repo": "cw-plus",
                 "stars": 527
-              }
+              },
+              "first_seen": "2026-08-28T23:12:34.957Z"
             },
             {
               "children": [
@@ -188,7 +198,8 @@
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
                     "stars": 527
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:12:34.957Z"
                 },
                 {
                   "node_type": "item",
@@ -203,7 +214,8 @@
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
                     "stars": 527
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:12:34.957Z"
                 },
                 {
                   "node_type": "item",
@@ -218,7 +230,8 @@
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
                     "stars": 527
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:12:34.957Z"
                 },
                 {
                   "node_type": "item",
@@ -233,7 +246,8 @@
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
                     "stars": 527
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:12:34.957Z"
                 },
                 {
                   "node_type": "item",
@@ -248,7 +262,8 @@
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
                     "stars": 527
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:12:34.957Z"
                 }
               ],
               "description": null,
@@ -270,7 +285,8 @@
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
                     "stars": 527
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:12:34.957Z"
                 },
                 {
                   "node_type": "item",
@@ -285,7 +301,8 @@
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
                     "stars": 527
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:12:34.957Z"
                 },
                 {
                   "node_type": "item",
@@ -300,7 +317,8 @@
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
                     "stars": 527
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:12:34.957Z"
                 },
                 {
                   "node_type": "item",
@@ -315,7 +333,8 @@
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
                     "stars": 527
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:12:34.957Z"
                 },
                 {
                   "node_type": "item",
@@ -330,7 +349,8 @@
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
                     "stars": 527
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:12:34.957Z"
                 },
                 {
                   "node_type": "item",
@@ -345,7 +365,8 @@
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
                     "stars": 527
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:12:34.957Z"
                 },
                 {
                   "node_type": "item",
@@ -360,7 +381,8 @@
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
                     "stars": 527
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:12:34.957Z"
                 }
               ],
               "description": null,
@@ -387,7 +409,8 @@
                 "owner": "public-awesome",
                 "repo": "cw-nfts",
                 "stars": 201
-              }
+              },
+              "first_seen": "2026-08-28T23:12:34.957Z"
             },
             {
               "node_type": "item",
@@ -402,7 +425,8 @@
                 "owner": "CosmWasm",
                 "repo": "cw-tokens",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T23:12:34.957Z"
             }
           ],
           "description": "These contracts demonstrate best practices and learning references. Please do not use them in production as is. You are welcome to fork them, and independently review, refine and audit them, using them as a basis for your protocol. Or just as inspiration",
@@ -428,7 +452,8 @@
             "owner": "DA0-DA0",
             "repo": "dao-contracts",
             "stars": 217
-          }
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
         },
         {
           "node_type": "item",
@@ -443,7 +468,8 @@
             "owner": "astroport-fi",
             "repo": "astroport-core",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
         },
         {
           "node_type": "item",
@@ -458,7 +484,8 @@
             "owner": "AbstractSDK",
             "repo": "abstract",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
         },
         {
           "node_type": "item",
@@ -473,7 +500,8 @@
             "owner": "public-awesome",
             "repo": "launchpad",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
         },
         {
           "node_type": "item",
@@ -488,7 +516,8 @@
             "owner": "srdtrk",
             "repo": "cw-ica-controller",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
         }
       ],
       "title": "External Projects"
@@ -509,7 +538,8 @@
             "owner": "hyperweb-io",
             "repo": "create-cosmos-app",
             "stars": 166
-          }
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
         },
         {
           "node_type": "item",
@@ -524,7 +554,8 @@
             "owner": "CosmWasm",
             "repo": "optimizer",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
         },
         {
           "node_type": "item",
@@ -539,7 +570,8 @@
             "owner": "hyperweb-io",
             "repo": "ts-codegen",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
         },
         {
           "node_type": "item",
@@ -554,7 +586,8 @@
             "owner": "osmosis-labs",
             "repo": "beaker",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
         },
         {
           "node_type": "item",
@@ -569,7 +602,8 @@
             "owner": "AbstractSDK",
             "repo": "cw-orchestrator",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
         },
         {
           "node_type": "item",
@@ -584,7 +618,8 @@
             "owner": "mandrean",
             "repo": "cw-optimizoor",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
         },
         {
           "node_type": "item",
@@ -599,7 +634,8 @@
             "owner": "hyperweb-io",
             "repo": "cosmwasm-vm-js",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
         },
         {
           "node_type": "item",
@@ -614,7 +650,8 @@
             "owner": "aswever",
             "repo": "cosmwasm-devtools",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
         },
         {
           "node_type": "item",
@@ -629,7 +666,8 @@
             "owner": "srdtrk",
             "repo": "go-codegen",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
         },
         {
           "node_type": "item",
@@ -644,7 +682,8 @@
             "owner": "oraichain",
             "repo": "smart-studio",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
         },
         {
           "node_type": "item",
@@ -659,14 +698,15 @@
             "owner": "oraichain",
             "repo": "cosmwasm-tools",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
         }
       ],
       "title": "Tooling"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:03:20.367Z",
+    "last_updated": "2026-08-28T23:12:34.957Z",
     "original_repository_info": {
       "archived": false,
       "id": 230324183,
