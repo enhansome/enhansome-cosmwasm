@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAssembly Smart Contracts for the Cosmos SDK",
+            "homepage": "https://www.cosmwasm.com",
             "id": 212116761,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T09:58:56Z",
+            "open_issues": 42,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1144
+            "stars": 1144,
+            "topics": [
+              "cosmos-sdk",
+              "rust",
+              "smart-contracts",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
         },
@@ -26,12 +36,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quickstart template to get started writing your own cosmwasm contracts",
+            "homepage": null,
             "id": 214116143,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-16T15:30:01Z",
+            "open_issues": 7,
             "owner": "CosmWasm",
             "repo": "cw-template",
-            "stars": 297
+            "stars": 297,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
         }
@@ -48,12 +63,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAssembly Smart Contracts for the Cosmos SDK",
+            "homepage": "https://www.cosmwasm.com",
             "id": 212116761,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T09:58:56Z",
+            "open_issues": 42,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1144
+            "stars": 1144,
+            "topics": [
+              "cosmos-sdk",
+              "rust",
+              "smart-contracts",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
         },
@@ -64,12 +89,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAssembly Smart Contracts for the Cosmos SDK",
+            "homepage": "https://www.cosmwasm.com",
             "id": 212116761,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T09:58:56Z",
+            "open_issues": 42,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1144
+            "stars": 1144,
+            "topics": [
+              "cosmos-sdk",
+              "rust",
+              "smart-contracts",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
         },
@@ -80,12 +115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Testing tools for multi-contract interactions",
+            "homepage": null,
             "id": 553051640,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-19T15:03:33Z",
+            "open_issues": 10,
             "owner": "CosmWasm",
             "repo": "cw-multi-test",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
         },
@@ -96,12 +136,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Storage abstractions for CosmWasm smart contracts",
+            "homepage": null,
             "id": 552928286,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-23T13:11:44Z",
+            "open_issues": 28,
             "owner": "CosmWasm",
             "repo": "cw-storage-plus",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
         }
@@ -118,12 +163,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A collection of CosmWasm utilities and helper functions that I use ",
+            "homepage": null,
             "id": 534870693,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-14T15:14:38Z",
+            "open_issues": 4,
             "owner": "larry0x",
             "repo": "cw-plus-plus",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
         },
@@ -134,12 +184,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A collection of CosmWasm utilities and helper functions that I use ",
+            "homepage": null,
             "id": 534870693,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-14T15:14:38Z",
+            "open_issues": 4,
             "owner": "larry0x",
             "repo": "cw-plus-plus",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
         },
@@ -150,12 +205,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utilities for CosmWasm smart contracts development",
+            "homepage": null,
             "id": 553087181,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-13T15:04:28Z",
+            "open_issues": 9,
             "owner": "CosmWasm",
             "repo": "cw-minus",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
         }
@@ -174,12 +234,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-life smart contracts under open-source licenses",
+                "homepage": null,
                 "id": 272626471,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-26T13:38:12Z",
+                "open_issues": 23,
                 "owner": "CosmWasm",
                 "repo": "cw-plus",
-                "stars": 527
+                "stars": 527,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:34.957Z"
             },
@@ -192,12 +257,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Real-life smart contracts under open-source licenses",
+                    "homepage": null,
                     "id": 272626471,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-26T13:38:12Z",
+                    "open_issues": 23,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 527
+                    "stars": 527,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
                 },
@@ -208,12 +278,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Real-life smart contracts under open-source licenses",
+                    "homepage": null,
                     "id": 272626471,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-26T13:38:12Z",
+                    "open_issues": 23,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 527
+                    "stars": 527,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
                 },
@@ -224,12 +299,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Real-life smart contracts under open-source licenses",
+                    "homepage": null,
                     "id": 272626471,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-26T13:38:12Z",
+                    "open_issues": 23,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 527
+                    "stars": 527,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
                 },
@@ -240,12 +320,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Real-life smart contracts under open-source licenses",
+                    "homepage": null,
                     "id": 272626471,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-26T13:38:12Z",
+                    "open_issues": 23,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 527
+                    "stars": 527,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
                 },
@@ -256,12 +341,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Real-life smart contracts under open-source licenses",
+                    "homepage": null,
                     "id": 272626471,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-26T13:38:12Z",
+                    "open_issues": 23,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 527
+                    "stars": 527,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
                 }
@@ -279,12 +369,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Real-life smart contracts under open-source licenses",
+                    "homepage": null,
                     "id": 272626471,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-26T13:38:12Z",
+                    "open_issues": 23,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 527
+                    "stars": 527,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
                 },
@@ -295,12 +390,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Real-life smart contracts under open-source licenses",
+                    "homepage": null,
                     "id": 272626471,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-26T13:38:12Z",
+                    "open_issues": 23,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 527
+                    "stars": 527,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
                 },
@@ -311,12 +411,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Real-life smart contracts under open-source licenses",
+                    "homepage": null,
                     "id": 272626471,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-26T13:38:12Z",
+                    "open_issues": 23,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 527
+                    "stars": 527,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
                 },
@@ -327,12 +432,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Real-life smart contracts under open-source licenses",
+                    "homepage": null,
                     "id": 272626471,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-26T13:38:12Z",
+                    "open_issues": 23,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 527
+                    "stars": 527,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
                 },
@@ -343,12 +453,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Real-life smart contracts under open-source licenses",
+                    "homepage": null,
                     "id": 272626471,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-26T13:38:12Z",
+                    "open_issues": 23,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 527
+                    "stars": 527,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
                 },
@@ -359,12 +474,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Real-life smart contracts under open-source licenses",
+                    "homepage": null,
                     "id": 272626471,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-26T13:38:12Z",
+                    "open_issues": 23,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 527
+                    "stars": 527,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
                 },
@@ -375,12 +495,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Real-life smart contracts under open-source licenses",
+                    "homepage": null,
                     "id": 272626471,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-26T13:38:12Z",
+                    "open_issues": 23,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 527
+                    "stars": 527,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
                 }
@@ -403,12 +528,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Examples and helpers to build NFT contracts on CosmWasm",
+                "homepage": null,
                 "id": 410915331,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-01T16:03:02Z",
+                "open_issues": 28,
                 "owner": "public-awesome",
                 "repo": "cw-nfts",
-                "stars": 201
+                "stars": 201,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:34.957Z"
             },
@@ -419,12 +549,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Examples of cw20 usage, extracted from cw-plus, maintained by the community",
+                "homepage": null,
                 "id": 442531494,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-26T20:54:28Z",
+                "open_issues": 6,
                 "owner": "CosmWasm",
                 "repo": "cw-tokens",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:12:34.957Z"
             }
@@ -446,12 +581,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advanced Web Assembly governance tooling.",
+            "homepage": "https://docs.daodao.zone",
             "id": 402992355,
             "language": "Rust",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-28T14:43:51Z",
+            "open_issues": 78,
             "owner": "DA0-DA0",
             "repo": "dao-contracts",
-            "stars": 217
+            "stars": 217,
+            "topics": [
+              "cosmwasm",
+              "dao",
+              "governance",
+              "interchain",
+              "multisig",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
         },
@@ -462,12 +609,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Astroport DEX core contracts",
+            "homepage": "https://astroport.fi/",
             "id": 383415572,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-09T09:28:14Z",
+            "open_issues": 3,
             "owner": "astroport-fi",
             "repo": "astroport-core",
-            "stars": 170
+            "stars": 170,
+            "topics": [
+              "smart-contracts"
+            ]
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
         },
@@ -478,12 +632,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The ultimate CosmWasm framework for modular Interchain applications.",
+            "homepage": "https://docs.abstract.money/",
             "id": 660566018,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-05T21:25:46Z",
+            "open_issues": 9,
             "owner": "AbstractSDK",
             "repo": "abstract",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "cosmos-sdk",
+              "cosmwasm",
+              "cosmwasm-framework",
+              "rust",
+              "smart-contracts"
+            ]
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
         },
@@ -494,12 +659,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stargaze NFT and Launchpad smart contracts",
+            "homepage": null,
             "id": 462151818,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-24T10:06:26Z",
+            "open_issues": 37,
             "owner": "public-awesome",
             "repo": "launchpad",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "cosmos",
+              "cosmwasm",
+              "interchain",
+              "nft",
+              "smart-contracts"
+            ]
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
         },
@@ -510,12 +686,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a CosmWasm implementation of an ICS-27 interchain accounts controller.",
+            "homepage": null,
             "id": 654239450,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-27T07:20:44Z",
+            "open_issues": 5,
             "owner": "srdtrk",
             "repo": "cw-ica-controller",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
         }
@@ -532,12 +713,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Set up a modern Cosmos app by running one command ⚛️",
+            "homepage": "https://hyperweb.io/stack/create-cosmos-app",
             "id": 519174922,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-12-11T06:49:18Z",
+            "open_issues": 40,
             "owner": "hyperweb-io",
             "repo": "create-cosmos-app",
-            "stars": 166
+            "stars": 166,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
         },
@@ -548,12 +734,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dockerfile and script to produce the smallest possible Wasm for Rust contract",
+            "homepage": null,
             "id": 214407712,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-26T09:19:12Z",
+            "open_issues": 11,
             "owner": "CosmWasm",
             "repo": "optimizer",
-            "stars": 146
+            "stars": 146,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
         },
@@ -564,12 +755,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert your CosmWasm smart contracts into dev-friendly TypeScript classes so you can focus on shipping code.",
+            "homepage": "https://hyperweb.io/stack/ts-codegen",
             "id": 482346319,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-09T16:10:43Z",
+            "open_issues": 50,
             "owner": "hyperweb-io",
             "repo": "ts-codegen",
-            "stars": 126
+            "stars": 126,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
         },
@@ -580,12 +776,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Beaker helps streamlining CosmWasm development workflow.",
+            "homepage": null,
             "id": 491711177,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-22T13:39:25Z",
+            "open_issues": 34,
             "owner": "osmosis-labs",
             "repo": "beaker",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "cosmwasm",
+              "rust",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
         },
@@ -596,12 +801,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " All-in-one Rust-based CosmWasm testing, scripting, and deployment tool.",
+            "homepage": "https://orchestrator.abstract.money",
             "id": 535318790,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-05T21:24:25Z",
+            "open_issues": 19,
             "owner": "AbstractSDK",
             "repo": "cw-orchestrator",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "blockchain",
+              "cosmwasm",
+              "deployment-automation",
+              "rust",
+              "scripting",
+              "smart-contracts"
+            ]
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
         },
@@ -612,12 +829,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A blazingly fast compiling & optimization tool for CosmWasm smart contracts.",
+            "homepage": null,
             "id": 514743596,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-03-22T21:52:51Z",
+            "open_issues": 8,
             "owner": "mandrean",
             "repo": "cw-optimizoor",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "cargo",
+              "cosmwasm",
+              "rust",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
         },
@@ -628,12 +856,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run CosmWasm smart contracts in Node.js and web browsers",
+            "homepage": null,
             "id": 458093727,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-09T12:58:46Z",
+            "open_issues": 2,
             "owner": "hyperweb-io",
             "repo": "cosmwasm-vm-js",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
         },
@@ -644,12 +877,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cosmwasm devtools",
+            "homepage": "https://cosmwasm.tools/",
             "id": 458665177,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-05-07T08:11:53Z",
+            "open_issues": 16,
             "owner": "aswever",
             "repo": "cosmwasm-devtools",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "cosmos",
+              "cosmwasm",
+              "developer-tools",
+              "juno",
+              "smart-contracts"
+            ]
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
         },
@@ -660,12 +904,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate Golang code for your CosmWasm smart contracts.",
+            "homepage": null,
             "id": 754892855,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-12T18:16:30Z",
+            "open_issues": 9,
             "owner": "srdtrk",
             "repo": "go-codegen",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
         },
@@ -676,12 +925,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cosmwasm Playground for developing smart contracts",
+            "homepage": "https://studio.orai.io",
             "id": 346656676,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-12-07T10:49:53Z",
+            "open_issues": 1,
             "owner": "oraichain",
             "repo": "smart-studio",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
         },
@@ -692,12 +946,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A super fast and cross-platform alternative to rust-optimizer that produces optimized wasm files",
+            "homepage": null,
             "id": 585074747,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-11-12T09:16:16Z",
+            "open_issues": 2,
             "owner": "oraichain",
             "repo": "cosmwasm-tools",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
         }
@@ -706,15 +967,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:12:34.957Z",
+    "last_updated": "2026-08-29T04:49:07.820Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":sunglasses: Curated list of tools, contracts, and projects working with CosmWasm",
+      "homepage": null,
       "id": 230324183,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-03-03T10:04:25Z",
+      "open_issues": 6,
       "owner": "CosmWasm",
       "repo": "awesome-cosmwasm",
-      "stars": 272
+      "stars": 272,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "b57d08cfcce64ffa72c779ff73306b191bc54765",
     "enhanced_repository": "enhansome/enhansome-cosmwasm",
