@@ -20,7 +20,7 @@ contribute.
 
 ## General Resources
 
-* [CosmWasm framework](https://github.com/CosmWasm/cosmwasm) ⭐ 1,144 | 🐛 42 | 🌐 Rust | 📅 2026-08-25 - a "core" CosmWasm
+* [CosmWasm framework](https://github.com/CosmWasm/cosmwasm) ⭐ 1,144 | 🐛 43 | 🌐 Rust | 📅 2026-08-25 - a "core" CosmWasm
   repo. This includes the core Rust framework for writing a smart contract, a
   virtual machine that runs smart contracts and is embedded in any chain running
   them, the IDL format for describing the interface of a smart contract, and
@@ -34,11 +34,11 @@ contribute.
 ## CosmWasm Framework
 
 * [cosmwasm-std](https://crates.io/crates/cosmwasm-std)
-  ([repo](https://github.com/CosmWasm/cosmwasm/tree/master/packages/std) ⭐ 1,144 | 🐛 42 | 🌐 Rust | 📅 2026-08-25): The
+  ([repo](https://github.com/CosmWasm/cosmwasm/tree/master/packages/std) ⭐ 1,144 | 🐛 43 | 🌐 Rust | 📅 2026-08-25): The
   standard library for building CosmWasm smart contracts. Code in this package
   is compiled into the smart contract.
 * [cosmwasm-schema](https://crates.io/crates/cosmwasm-schema)
-  ([repo](https://github.com/CosmWasm/cosmwasm/tree/master/packages/schema) ⭐ 1,144 | 🐛 42 | 🌐 Rust | 📅 2026-08-25): A
+  ([repo](https://github.com/CosmWasm/cosmwasm/tree/master/packages/schema) ⭐ 1,144 | 🐛 43 | 🌐 Rust | 📅 2026-08-25): A
   dependency for CosmWasm contracts to generate the IDL (interface description)
   files. These are consumed e.g. by
   [`ts-codegen`](https://github.com/CosmWasm/ts-codegen) ⭐ 126 | 🐛 50 | 🌐 TypeScript | 📅 2026-05-09 to automagically get a
@@ -171,10 +171,10 @@ These projects/contracts are developed and maintained by CosmWasm community.
   surpassing Aragon in functionality
 * [astroport-fi/astroport-core](https://github.com/astroport-fi/astroport-core) ⭐ 170 | 🐛 3 | 🌐 Rust | 📅 2026-06-09 - Astroport is
   a multi pool type automated market-maker (AMM) protocol, it is one of the leading DEX on Terra.
+* [public-awesome/launchpad](https://github.com/public-awesome/launchpad) ⭐ 82 | 🐛 37 | 🌐 Rust | 📅 2026-07-24 -
+  Stargaze provides contracts to easily create and manage new NFT collections.
 * [AbstractSDK/abstract](https://github.com/AbstractSDK/abstract) ⭐ 82 | 🐛 9 | 🌐 Rust | 📅 2026-03-05 - Abstract is
   a development platform with a focus on code reusability and application sovereignty.
-* [public-awesome/launchpad](https://github.com/public-awesome/launchpad) ⭐ 81 | 🐛 37 | 🌐 Rust | 📅 2026-07-24 -
-  Stargaze provides contracts to easily create and manage new NFT collections.
 * [srdtrk/cw-ica-controller](https://github.com/srdtrk/cw-ica-controller) ⭐ 43 | 🐛 5 | 🌐 Go | 📅 2024-10-27 -
   A controller contract for the Interchain Accounts
   ([ICS-27](https://github.com/cosmos/ibc/blob/main/spec/app/ics-027-interchain-accounts/README.md) ⭐ 1,017 | 🐛 47 | 🌐 Go | 📅 2026-08-29)
@@ -224,4 +224,4 @@ Looking for dApps to feature. See
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

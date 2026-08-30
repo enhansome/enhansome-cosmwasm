@@ -16,7 +16,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-25T09:58:56Z",
-            "open_issues": 42,
+            "open_issues": 43,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
             "stars": 1144,
@@ -69,7 +69,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-25T09:58:56Z",
-            "open_issues": 42,
+            "open_issues": 43,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
             "stars": 1144,
@@ -95,7 +95,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-08-25T09:58:56Z",
-            "open_issues": 42,
+            "open_issues": 43,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
             "stars": 1144,
@@ -627,6 +627,33 @@
         },
         {
           "node_type": "item",
+          "title": "public-awesome/launchpad",
+          "description": "Stargaze provides contracts to easily create and manage new NFT collections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Stargaze NFT and Launchpad smart contracts",
+            "homepage": null,
+            "id": 462151818,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-07-24T10:06:26Z",
+            "open_issues": 37,
+            "owner": "public-awesome",
+            "repo": "launchpad",
+            "stars": 82,
+            "topics": [
+              "cosmos",
+              "cosmwasm",
+              "interchain",
+              "nft",
+              "smart-contracts"
+            ]
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
+        },
+        {
+          "node_type": "item",
           "title": "AbstractSDK/abstract",
           "description": "Abstract is a development platform with a focus on code reusability and application sovereignty.",
           "children": [],
@@ -647,33 +674,6 @@
               "cosmwasm",
               "cosmwasm-framework",
               "rust",
-              "smart-contracts"
-            ]
-          },
-          "first_seen": "2026-08-28T23:12:34.957Z"
-        },
-        {
-          "node_type": "item",
-          "title": "public-awesome/launchpad",
-          "description": "Stargaze provides contracts to easily create and manage new NFT collections.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Stargaze NFT and Launchpad smart contracts",
-            "homepage": null,
-            "id": 462151818,
-            "language": "Rust",
-            "license": "Apache-2.0",
-            "last_commit": "2026-07-24T10:06:26Z",
-            "open_issues": 37,
-            "owner": "public-awesome",
-            "repo": "launchpad",
-            "stars": 81,
-            "topics": [
-              "cosmos",
-              "cosmwasm",
-              "interchain",
-              "nft",
               "smart-contracts"
             ]
           },
@@ -967,7 +967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:22:35.995Z",
+    "last_updated": "2026-08-30T17:45:37.587Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Curated list of tools, contracts, and projects working with CosmWasm",
