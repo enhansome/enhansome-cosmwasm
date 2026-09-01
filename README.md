@@ -20,7 +20,7 @@ contribute.
 
 ## General Resources
 
-* [CosmWasm framework](https://github.com/CosmWasm/cosmwasm) ⭐ 1,144 | 🐛 43 | 🌐 Rust | 📅 2026-08-25 - a "core" CosmWasm
+* [CosmWasm framework](https://github.com/CosmWasm/cosmwasm) ⭐ 1,145 | 🐛 43 | 🌐 Rust | 📅 2026-08-25 - a "core" CosmWasm
   repo. This includes the core Rust framework for writing a smart contract, a
   virtual machine that runs smart contracts and is embedded in any chain running
   them, the IDL format for describing the interface of a smart contract, and
@@ -34,14 +34,14 @@ contribute.
 ## CosmWasm Framework
 
 * [cosmwasm-std](https://crates.io/crates/cosmwasm-std)
-  ([repo](https://github.com/CosmWasm/cosmwasm/tree/master/packages/std) ⭐ 1,144 | 🐛 43 | 🌐 Rust | 📅 2026-08-25): The
+  ([repo](https://github.com/CosmWasm/cosmwasm/tree/master/packages/std) ⭐ 1,145 | 🐛 43 | 🌐 Rust | 📅 2026-08-25): The
   standard library for building CosmWasm smart contracts. Code in this package
   is compiled into the smart contract.
 * [cosmwasm-schema](https://crates.io/crates/cosmwasm-schema)
-  ([repo](https://github.com/CosmWasm/cosmwasm/tree/master/packages/schema) ⭐ 1,144 | 🐛 43 | 🌐 Rust | 📅 2026-08-25): A
+  ([repo](https://github.com/CosmWasm/cosmwasm/tree/master/packages/schema) ⭐ 1,145 | 🐛 43 | 🌐 Rust | 📅 2026-08-25): A
   dependency for CosmWasm contracts to generate the IDL (interface description)
   files. These are consumed e.g. by
-  [`ts-codegen`](https://github.com/CosmWasm/ts-codegen) ⭐ 126 | 🐛 50 | 🌐 TypeScript | 📅 2026-05-09 to automagically get a
+  [`ts-codegen`](https://github.com/CosmWasm/ts-codegen) ⭐ 126 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-01 to automagically get a
   *TypeScript* client for your contract.
 * [cw-multi-test](https://crates.io/crates/cw-multi-test)
   ([repo](https://github.com/CosmWasm/cw-multi-test) ⭐ 56 | 🐛 10 | 🌐 Rust | 📅 2026-02-19):
@@ -195,7 +195,7 @@ These projects/contracts are developed and maintained by CosmWasm community.
   a Docker build with a locked set of dependencies to produce reproducible
   builds of cosmwasm smart contracts. It also does heavy optimization on the
   build size, using binary stripping and `wasm-opt`.
-* [cosmwasm/ts-codegen](https://github.com/CosmWasm/ts-codegen) ⭐ 126 | 🐛 50 | 🌐 TypeScript | 📅 2026-05-09 - Convert your CosmWasm smart contracts into dev-friendly TypeScript classes so you can focus on shipping code.
+* [cosmwasm/ts-codegen](https://github.com/CosmWasm/ts-codegen) ⭐ 126 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-01 - Convert your CosmWasm smart contracts into dev-friendly TypeScript classes so you can focus on shipping code.
 * [beaker](https://github.com/osmosis-labs/beaker) ⭐ 106 | 🐛 34 | 🌐 Rust | 📅 2024-01-22 - A toolkit that simplifies interactions with CosmWasm smart contracts which offers scaffolding, deployment, upgrades, execution, querying, an interactive console, and task scripting capabilities.
 * [cw-orchestrator](https://github.com/AbstractSDK/cw-orchestrator) ⭐ 80 | 🐛 19 | 🌐 Rust | 📅 2026-03-05 - A Rust-oriented CosmWasm scripting library that features a clean and unified syntax for interacting
   with contracts in any environment.
@@ -224,4 +224,4 @@ Looking for dApps to feature. See
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
