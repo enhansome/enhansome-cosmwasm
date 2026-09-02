@@ -166,7 +166,7 @@ protocol. Or just as inspiration
 
 These projects/contracts are developed and maintained by CosmWasm community.
 
-* [DA0-DA0/dao-contracts](https://github.com/DA0-DA0/dao-contracts) ⭐ 217 | 🐛 78 | 🌐 Rust | 📅 2026-06-28 - DAO DAO is
+* [DA0-DA0/dao-contracts](https://github.com/DA0-DA0/dao-contracts) ⭐ 217 | 🐛 81 | 🌐 Rust | 📅 2026-09-01 - DAO DAO is
   the leading software to build your own DAO on CosmWasm chains, quickly
   surpassing Aragon in functionality
 * [astroport-fi/astroport-core](https://github.com/astroport-fi/astroport-core) ⭐ 170 | 🐛 3 | 🌐 Rust | 📅 2026-06-09 - Astroport is
@@ -177,7 +177,7 @@ These projects/contracts are developed and maintained by CosmWasm community.
   a development platform with a focus on code reusability and application sovereignty.
 * [srdtrk/cw-ica-controller](https://github.com/srdtrk/cw-ica-controller) ⭐ 43 | 🐛 5 | 🌐 Go | 📅 2024-10-27 -
   A controller contract for the Interchain Accounts
-  ([ICS-27](https://github.com/cosmos/ibc/blob/main/spec/app/ics-027-interchain-accounts/README.md) ⭐ 1,017 | 🐛 47 | 🌐 Go | 📅 2026-08-31)
+  ([ICS-27](https://github.com/cosmos/ibc/blob/main/spec/app/ics-027-interchain-accounts/README.md) ⭐ 1,018 | 🐛 51 | 🌐 Go | 📅 2026-09-02)
   spec. It allows users to create and manage interchain accounts on host chains that support the golang
   implementation of ICS-27.
 * [mars-protocol/v1-core](https://github.com/mars-protocol/v1-core) - Delphi's
@@ -224,4 +224,4 @@ Looking for dApps to feature. See
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
