@@ -177,7 +177,7 @@ These projects/contracts are developed and maintained by CosmWasm community.
   a development platform with a focus on code reusability and application sovereignty.
 * [srdtrk/cw-ica-controller](https://github.com/srdtrk/cw-ica-controller) ⭐ 43 | 🐛 5 | 🌐 Go | 📅 2024-10-27 -
   A controller contract for the Interchain Accounts
-  ([ICS-27](https://github.com/cosmos/ibc/blob/main/spec/app/ics-027-interchain-accounts/README.md) ⭐ 1,018 | 🐛 51 | 🌐 Go | 📅 2026-09-02)
+  ([ICS-27](https://github.com/cosmos/ibc/blob/main/spec/app/ics-027-interchain-accounts/README.md) ⭐ 1,019 | 🐛 52 | 🌐 Go | 📅 2026-09-03)
   spec. It allows users to create and manage interchain accounts on host chains that support the golang
   implementation of ICS-27.
 * [mars-protocol/v1-core](https://github.com/mars-protocol/v1-core) - Delphi's
@@ -224,4 +224,4 @@ Looking for dApps to feature. See
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
