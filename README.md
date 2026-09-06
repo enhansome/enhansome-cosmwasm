@@ -20,7 +20,7 @@ contribute.
 
 ## General Resources
 
-* [CosmWasm framework](https://github.com/CosmWasm/cosmwasm) ⭐ 1,145 | 🐛 43 | 🌐 Rust | 📅 2026-09-04 - a "core" CosmWasm
+* [CosmWasm framework](https://github.com/CosmWasm/cosmwasm) ⭐ 1,145 | 🐛 40 | 🌐 Rust | 📅 2026-09-06 - a "core" CosmWasm
   repo. This includes the core Rust framework for writing a smart contract, a
   virtual machine that runs smart contracts and is embedded in any chain running
   them, the IDL format for describing the interface of a smart contract, and
@@ -34,11 +34,11 @@ contribute.
 ## CosmWasm Framework
 
 * [cosmwasm-std](https://crates.io/crates/cosmwasm-std)
-  ([repo](https://github.com/CosmWasm/cosmwasm/tree/master/packages/std) ⭐ 1,145 | 🐛 43 | 🌐 Rust | 📅 2026-09-04): The
+  ([repo](https://github.com/CosmWasm/cosmwasm/tree/master/packages/std) ⭐ 1,145 | 🐛 40 | 🌐 Rust | 📅 2026-09-06): The
   standard library for building CosmWasm smart contracts. Code in this package
   is compiled into the smart contract.
 * [cosmwasm-schema](https://crates.io/crates/cosmwasm-schema)
-  ([repo](https://github.com/CosmWasm/cosmwasm/tree/master/packages/schema) ⭐ 1,145 | 🐛 43 | 🌐 Rust | 📅 2026-09-04): A
+  ([repo](https://github.com/CosmWasm/cosmwasm/tree/master/packages/schema) ⭐ 1,145 | 🐛 40 | 🌐 Rust | 📅 2026-09-06): A
   dependency for CosmWasm contracts to generate the IDL (interface description)
   files. These are consumed e.g. by
   [`ts-codegen`](https://github.com/CosmWasm/ts-codegen) ⭐ 126 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-01 to automagically get a
@@ -46,7 +46,7 @@ contribute.
 * [cw-multi-test](https://crates.io/crates/cw-multi-test)
   ([repo](https://github.com/CosmWasm/cw-multi-test) ⭐ 56 | 🐛 10 | 🌐 Rust | 📅 2026-02-19):
 * [cw-storage-plus](https://crates.io/crates/cw-storage-plus)
-  ([repo](https://github.com/CosmWasm/cw-storage-plus) ⭐ 51 | 🐛 28 | 🌐 Rust | 📅 2026-02-23): Helper methods to
+  ([repo](https://github.com/CosmWasm/cw-storage-plus) ⭐ 51 | 🐛 27 | 🌐 Rust | 📅 2026-02-23): Helper methods to
   reduce boilerplate for storing data types. Easier and more secure persistence
   layer.
 
@@ -59,7 +59,7 @@ contribute.
   ([repo](https://github.com/steak-enjoyers/cw-plus-plus) ⚠️ Archived): A `HashSet`
   equivalent (set of unique items) that can be stored in smart contract storage.
 * [cw-utils](https://crates.io/crates/cw-utils)
-  ([repo](https://github.com/CosmWasm/cw-utils) ⭐ 20 | 🐛 9 | 🌐 Rust | 📅 2026-01-13): A collection of (somewhat
+  ([repo](https://github.com/CosmWasm/cw-utils) ⭐ 20 | 🐛 8 | 🌐 Rust | 📅 2026-01-13): A collection of (somewhat
   random) helpers we found useful when developing `cw-plus` contracts and specs.
   Available as a library at crates.io!
 
@@ -153,10 +153,10 @@ not use them in production as is. You are welcome to fork them, and
 independently review, refine and audit them, using them as a basis for your
 protocol. Or just as inspiration
 
-* [cw-nfts](https://github.com/CosmWasm/cw-nfts) ⭐ 201 | 🐛 28 | 🌐 Rust | 📅 2026-04-01 - non-fungible tokens. Official
+* [cw-nfts](https://github.com/CosmWasm/cw-nfts) ⭐ 201 | 🐛 27 | 🌐 Rust | 📅 2026-04-01 - non-fungible tokens. Official
   repository for all work on NFT standards and reference contracts. This is
   where the
-  [`cw721 spec`](https://github.com/CosmWasm/cw-nfts/tree/main/packages/cw721) ⭐ 201 | 🐛 28 | 🌐 Rust | 📅 2026-04-01
+  [`cw721 spec`](https://github.com/CosmWasm/cw-nfts/tree/main/packages/cw721) ⭐ 201 | 🐛 27 | 🌐 Rust | 📅 2026-04-01
   lives.
 * [cw-tokens](https://github.com/CosmWasm/cw-tokens) ⚠️ Archived - a few other
   [cw20](https://github.com/CosmWasm/cosmwasm-plus/tree/master/packages/cw20) ⭐ 527 | 🐛 23 | 🌐 Rust | 📅 2026-06-26
@@ -224,4 +224,4 @@ Looking for dApps to feature. See
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
