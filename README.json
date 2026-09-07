@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-06T10:58:48Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1145,
+            "stars": 1144,
             "topics": [
               "cosmos-sdk",
               "rust",
@@ -69,10 +69,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-06T10:58:48Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1145,
+            "stars": 1144,
             "topics": [
               "cosmos-sdk",
               "rust",
@@ -95,10 +95,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-06T10:58:48Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1145,
+            "stars": 1144,
             "topics": [
               "cosmos-sdk",
               "rust",
@@ -537,7 +537,7 @@
                 "open_issues": 27,
                 "owner": "public-awesome",
                 "repo": "cw-nfts",
-                "stars": 201,
+                "stars": 200,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:12:34.957Z"
@@ -558,7 +558,7 @@
                 "open_issues": 6,
                 "owner": "CosmWasm",
                 "repo": "cw-tokens",
-                "stars": 90,
+                "stars": 89,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:12:34.957Z"
@@ -743,7 +743,7 @@
             "open_issues": 11,
             "owner": "CosmWasm",
             "repo": "optimizer",
-            "stars": 146,
+            "stars": 145,
             "topics": []
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
@@ -967,7 +967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T16:26:10.302Z",
+    "last_updated": "2026-09-07T18:23:43.283Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Curated list of tools, contracts, and projects working with CosmWasm",

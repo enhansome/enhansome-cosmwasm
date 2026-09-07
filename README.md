@@ -20,7 +20,7 @@ contribute.
 
 ## General Resources
 
-* [CosmWasm framework](https://github.com/CosmWasm/cosmwasm) ⭐ 1,145 | 🐛 40 | 🌐 Rust | 📅 2026-09-06 - a "core" CosmWasm
+* [CosmWasm framework](https://github.com/CosmWasm/cosmwasm) ⭐ 1,144 | 🐛 41 | 🌐 Rust | 📅 2026-09-06 - a "core" CosmWasm
   repo. This includes the core Rust framework for writing a smart contract, a
   virtual machine that runs smart contracts and is embedded in any chain running
   them, the IDL format for describing the interface of a smart contract, and
@@ -34,11 +34,11 @@ contribute.
 ## CosmWasm Framework
 
 * [cosmwasm-std](https://crates.io/crates/cosmwasm-std)
-  ([repo](https://github.com/CosmWasm/cosmwasm/tree/master/packages/std) ⭐ 1,145 | 🐛 40 | 🌐 Rust | 📅 2026-09-06): The
+  ([repo](https://github.com/CosmWasm/cosmwasm/tree/master/packages/std) ⭐ 1,144 | 🐛 41 | 🌐 Rust | 📅 2026-09-06): The
   standard library for building CosmWasm smart contracts. Code in this package
   is compiled into the smart contract.
 * [cosmwasm-schema](https://crates.io/crates/cosmwasm-schema)
-  ([repo](https://github.com/CosmWasm/cosmwasm/tree/master/packages/schema) ⭐ 1,145 | 🐛 40 | 🌐 Rust | 📅 2026-09-06): A
+  ([repo](https://github.com/CosmWasm/cosmwasm/tree/master/packages/schema) ⭐ 1,144 | 🐛 41 | 🌐 Rust | 📅 2026-09-06): A
   dependency for CosmWasm contracts to generate the IDL (interface description)
   files. These are consumed e.g. by
   [`ts-codegen`](https://github.com/CosmWasm/ts-codegen) ⭐ 126 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-01 to automagically get a
@@ -153,10 +153,10 @@ not use them in production as is. You are welcome to fork them, and
 independently review, refine and audit them, using them as a basis for your
 protocol. Or just as inspiration
 
-* [cw-nfts](https://github.com/CosmWasm/cw-nfts) ⭐ 201 | 🐛 27 | 🌐 Rust | 📅 2026-04-01 - non-fungible tokens. Official
+* [cw-nfts](https://github.com/CosmWasm/cw-nfts) ⭐ 200 | 🐛 27 | 🌐 Rust | 📅 2026-04-01 - non-fungible tokens. Official
   repository for all work on NFT standards and reference contracts. This is
   where the
-  [`cw721 spec`](https://github.com/CosmWasm/cw-nfts/tree/main/packages/cw721) ⭐ 201 | 🐛 27 | 🌐 Rust | 📅 2026-04-01
+  [`cw721 spec`](https://github.com/CosmWasm/cw-nfts/tree/main/packages/cw721) ⭐ 200 | 🐛 27 | 🌐 Rust | 📅 2026-04-01
   lives.
 * [cw-tokens](https://github.com/CosmWasm/cw-tokens) ⚠️ Archived - a few other
   [cw20](https://github.com/CosmWasm/cosmwasm-plus/tree/master/packages/cw20) ⭐ 527 | 🐛 23 | 🌐 Rust | 📅 2026-06-26
@@ -191,7 +191,7 @@ These projects/contracts are developed and maintained by CosmWasm community.
 
 * [cosmology-tech/create-cosmos-app](https://github.com/cosmology-tech/create-cosmos-app) ⭐ 166 | 🐛 40 | 🌐 TypeScript | 📅 2025-12-11 -
   set up a modern Cosmos app with one command, ready to be iterated on.
-* [cosmwasm/rust-optimizer](https://github.com/CosmWasm/rust-optimizer) ⭐ 146 | 🐛 11 | 🌐 Rust | 📅 2025-06-26 - This is
+* [cosmwasm/rust-optimizer](https://github.com/CosmWasm/rust-optimizer) ⭐ 145 | 🐛 11 | 🌐 Rust | 📅 2025-06-26 - This is
   a Docker build with a locked set of dependencies to produce reproducible
   builds of cosmwasm smart contracts. It also does heavy optimization on the
   build size, using binary stripping and `wasm-opt`.
@@ -224,4 +224,4 @@ Looking for dApps to feature. See
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
