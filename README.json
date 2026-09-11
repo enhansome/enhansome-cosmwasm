@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1144,
+            "stars": 1145,
             "topics": [
               "cosmos-sdk",
               "rust",
@@ -72,7 +72,7 @@
             "open_issues": 42,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1144,
+            "stars": 1145,
             "topics": [
               "cosmos-sdk",
               "rust",
@@ -98,7 +98,7 @@
             "open_issues": 42,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1144,
+            "stars": 1145,
             "topics": [
               "cosmos-sdk",
               "rust",
@@ -967,7 +967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T17:12:48.990Z",
+    "last_updated": "2026-09-11T17:14:19.456Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Curated list of tools, contracts, and projects working with CosmWasm",
