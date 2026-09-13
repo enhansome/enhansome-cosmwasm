@@ -169,7 +169,7 @@ These projects/contracts are developed and maintained by CosmWasm community.
 * [DA0-DA0/dao-contracts](https://github.com/DA0-DA0/dao-contracts) ⭐ 217 | 🐛 81 | 🌐 Rust | 📅 2026-09-03 - DAO DAO is
   the leading software to build your own DAO on CosmWasm chains, quickly
   surpassing Aragon in functionality
-* [astroport-fi/astroport-core](https://github.com/astroport-fi/astroport-core) ⭐ 170 | 🐛 3 | 🌐 Rust | 📅 2026-06-09 - Astroport is
+* [astroport-fi/astroport-core](https://github.com/astroport-fi/astroport-core) ⭐ 169 | 🐛 3 | 🌐 Rust | 📅 2026-06-09 - Astroport is
   a multi pool type automated market-maker (AMM) protocol, it is one of the leading DEX on Terra.
 * [public-awesome/launchpad](https://github.com/public-awesome/launchpad) ⭐ 82 | 🐛 37 | 🌐 Rust | 📅 2026-07-24 -
   Stargaze provides contracts to easily create and manage new NFT collections.
@@ -224,4 +224,4 @@ Looking for dApps to feature. See
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
