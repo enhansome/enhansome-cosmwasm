@@ -590,7 +590,7 @@
             "open_issues": 81,
             "owner": "DA0-DA0",
             "repo": "dao-contracts",
-            "stars": 217,
+            "stars": 218,
             "topics": [
               "cosmwasm",
               "dao",
@@ -967,7 +967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T17:44:35.128Z",
+    "last_updated": "2026-09-18T17:12:50.467Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Curated list of tools, contracts, and projects working with CosmWasm",
