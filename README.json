@@ -16,7 +16,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-06T10:58:48Z",
-            "open_issues": 41,
+            "open_issues": 42,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
             "stars": 1145,
@@ -69,7 +69,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-06T10:58:48Z",
-            "open_issues": 41,
+            "open_issues": 42,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
             "stars": 1145,
@@ -95,7 +95,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-06T10:58:48Z",
-            "open_issues": 41,
+            "open_issues": 42,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
             "stars": 1145,
@@ -967,7 +967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:12:50.467Z",
+    "last_updated": "2026-09-19T16:48:25.516Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Curated list of tools, contracts, and projects working with CosmWasm",
