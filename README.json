@@ -586,8 +586,8 @@
             "id": 402992355,
             "language": "Rust",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-03T18:10:46Z",
-            "open_issues": 82,
+            "last_commit": "2026-09-25T20:24:33Z",
+            "open_issues": 81,
             "owner": "DA0-DA0",
             "repo": "dao-contracts",
             "stars": 218,
@@ -967,7 +967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T18:04:17.830Z",
+    "last_updated": "2026-09-26T17:23:13.760Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Curated list of tools, contracts, and projects working with CosmWasm",
