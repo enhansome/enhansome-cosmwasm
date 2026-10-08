@@ -20,7 +20,7 @@ contribute.
 
 ## General Resources
 
-* [CosmWasm framework](https://github.com/CosmWasm/cosmwasm) ⭐ 1,144 | 🐛 46 | 🌐 Rust | 📅 2026-10-07 - a "core" CosmWasm
+* [CosmWasm framework](https://github.com/CosmWasm/cosmwasm) ⭐ 1,144 | 🐛 45 | 🌐 Rust | 📅 2026-10-08 - a "core" CosmWasm
   repo. This includes the core Rust framework for writing a smart contract, a
   virtual machine that runs smart contracts and is embedded in any chain running
   them, the IDL format for describing the interface of a smart contract, and
@@ -34,11 +34,11 @@ contribute.
 ## CosmWasm Framework
 
 * [cosmwasm-std](https://crates.io/crates/cosmwasm-std)
-  ([repo](https://github.com/CosmWasm/cosmwasm/tree/master/packages/std) ⭐ 1,144 | 🐛 46 | 🌐 Rust | 📅 2026-10-07): The
+  ([repo](https://github.com/CosmWasm/cosmwasm/tree/master/packages/std) ⭐ 1,144 | 🐛 45 | 🌐 Rust | 📅 2026-10-08): The
   standard library for building CosmWasm smart contracts. Code in this package
   is compiled into the smart contract.
 * [cosmwasm-schema](https://crates.io/crates/cosmwasm-schema)
-  ([repo](https://github.com/CosmWasm/cosmwasm/tree/master/packages/schema) ⭐ 1,144 | 🐛 46 | 🌐 Rust | 📅 2026-10-07): A
+  ([repo](https://github.com/CosmWasm/cosmwasm/tree/master/packages/schema) ⭐ 1,144 | 🐛 45 | 🌐 Rust | 📅 2026-10-08): A
   dependency for CosmWasm contracts to generate the IDL (interface description)
   files. These are consumed e.g. by
   [`ts-codegen`](https://github.com/CosmWasm/ts-codegen) ⭐ 126 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-01 to automagically get a
@@ -169,7 +169,7 @@ These projects/contracts are developed and maintained by CosmWasm community.
 * [DA0-DA0/dao-contracts](https://github.com/DA0-DA0/dao-contracts) ⭐ 218 | 🐛 78 | 🌐 Rust | 📅 2026-09-30 - DAO DAO is
   the leading software to build your own DAO on CosmWasm chains, quickly
   surpassing Aragon in functionality
-* [astroport-fi/astroport-core](https://github.com/astroport-fi/astroport-core) ⭐ 168 | 🐛 1 | 🌐 Rust | 📅 2026-10-07 - Astroport is
+* [astroport-fi/astroport-core](https://github.com/astroport-fi/astroport-core) ⭐ 168 | 🐛 1 | 🌐 Rust | 📅 2026-10-08 - Astroport is
   a multi pool type automated market-maker (AMM) protocol, it is one of the leading DEX on Terra.
 * [public-awesome/launchpad](https://github.com/public-awesome/launchpad) ⭐ 82 | 🐛 37 | 🌐 Rust | 📅 2026-07-24 -
   Stargaze provides contracts to easily create and manage new NFT collections.
@@ -177,7 +177,7 @@ These projects/contracts are developed and maintained by CosmWasm community.
   a development platform with a focus on code reusability and application sovereignty.
 * [srdtrk/cw-ica-controller](https://github.com/srdtrk/cw-ica-controller) ⭐ 43 | 🐛 5 | 🌐 Go | 📅 2024-10-27 -
   A controller contract for the Interchain Accounts
-  ([ICS-27](https://github.com/cosmos/ibc/blob/main/spec/app/ics-027-interchain-accounts/README.md) ⭐ 1,020 | 🐛 97 | 🌐 Go | 📅 2026-10-07)
+  ([ICS-27](https://github.com/cosmos/ibc/blob/main/spec/app/ics-027-interchain-accounts/README.md) ⭐ 1,020 | 🐛 94 | 🌐 Go | 📅 2026-10-08)
   spec. It allows users to create and manage interchain accounts on host chains that support the golang
   implementation of ICS-27.
 * [mars-protocol/v1-core](https://github.com/mars-protocol/v1-core) - Delphi's
@@ -224,4 +224,4 @@ Looking for dApps to feature. See
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
