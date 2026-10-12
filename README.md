@@ -46,7 +46,7 @@ contribute.
 * [cw-multi-test](https://crates.io/crates/cw-multi-test)
   ([repo](https://github.com/CosmWasm/cw-multi-test) ⭐ 56 | 🐛 10 | 🌐 Rust | 📅 2026-02-19):
 * [cw-storage-plus](https://crates.io/crates/cw-storage-plus)
-  ([repo](https://github.com/CosmWasm/cw-storage-plus) ⭐ 51 | 🐛 27 | 🌐 Rust | 📅 2026-02-23): Helper methods to
+  ([repo](https://github.com/CosmWasm/cw-storage-plus) ⭐ 51 | 🐛 28 | 🌐 Rust | 📅 2026-02-23): Helper methods to
   reduce boilerplate for storing data types. Easier and more secure persistence
   layer.
 
@@ -169,7 +169,7 @@ These projects/contracts are developed and maintained by CosmWasm community.
 * [DA0-DA0/dao-contracts](https://github.com/DA0-DA0/dao-contracts) ⭐ 218 | 🐛 78 | 🌐 Rust | 📅 2026-09-30 - DAO DAO is
   the leading software to build your own DAO on CosmWasm chains, quickly
   surpassing Aragon in functionality
-* [astroport-fi/astroport-core](https://github.com/astroport-fi/astroport-core) ⭐ 168 | 🐛 3 | 🌐 Rust | 📅 2026-10-10 - Astroport is
+* [astroport-fi/astroport-core](https://github.com/astroport-fi/astroport-core) ⭐ 168 | 🐛 3 | 🌐 Rust | 📅 2026-10-11 - Astroport is
   a multi pool type automated market-maker (AMM) protocol, it is one of the leading DEX on Terra.
 * [public-awesome/launchpad](https://github.com/public-awesome/launchpad) ⭐ 82 | 🐛 37 | 🌐 Rust | 📅 2026-07-24 -
   Stargaze provides contracts to easily create and manage new NFT collections.
@@ -177,7 +177,7 @@ These projects/contracts are developed and maintained by CosmWasm community.
   a development platform with a focus on code reusability and application sovereignty.
 * [srdtrk/cw-ica-controller](https://github.com/srdtrk/cw-ica-controller) ⭐ 43 | 🐛 5 | 🌐 Go | 📅 2024-10-27 -
   A controller contract for the Interchain Accounts
-  ([ICS-27](https://github.com/cosmos/ibc/blob/main/spec/app/ics-027-interchain-accounts/README.md) ⭐ 1,021 | 🐛 90 | 🌐 Go | 📅 2026-10-11)
+  ([ICS-27](https://github.com/cosmos/ibc/blob/main/spec/app/ics-027-interchain-accounts/README.md) ⭐ 1,021 | 🐛 99 | 🌐 Go | 📅 2026-10-12)
   spec. It allows users to create and manage interchain accounts on host chains that support the golang
   implementation of ICS-27.
 * [mars-protocol/v1-core](https://github.com/mars-protocol/v1-core) - Delphi's
@@ -224,4 +224,4 @@ Looking for dApps to feature. See
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._

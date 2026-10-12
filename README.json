@@ -142,7 +142,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-02-23T13:11:44Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "CosmWasm",
             "repo": "cw-storage-plus",
             "stars": 51,
@@ -614,7 +614,7 @@
             "id": 383415572,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-10T18:10:14Z",
+            "last_commit": "2026-10-11T21:45:35Z",
             "open_issues": 3,
             "owner": "astroport-fi",
             "repo": "astroport-core",
@@ -967,7 +967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T18:27:53.103Z",
+    "last_updated": "2026-10-12T21:51:59.034Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Curated list of tools, contracts, and projects working with CosmWasm",
