@@ -41,7 +41,7 @@ contribute.
   ([repo](https://github.com/CosmWasm/cosmwasm/tree/master/packages/schema) ⭐ 1,144 | 🐛 43 | 🌐 Rust | 📅 2026-10-09): A
   dependency for CosmWasm contracts to generate the IDL (interface description)
   files. These are consumed e.g. by
-  [`ts-codegen`](https://github.com/CosmWasm/ts-codegen) ⭐ 126 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-01 to automagically get a
+  [`ts-codegen`](https://github.com/CosmWasm/ts-codegen) ⭐ 127 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-01 to automagically get a
   *TypeScript* client for your contract.
 * [cw-multi-test](https://crates.io/crates/cw-multi-test)
   ([repo](https://github.com/CosmWasm/cw-multi-test) ⭐ 56 | 🐛 10 | 🌐 Rust | 📅 2026-02-19):
@@ -177,7 +177,7 @@ These projects/contracts are developed and maintained by CosmWasm community.
   a development platform with a focus on code reusability and application sovereignty.
 * [srdtrk/cw-ica-controller](https://github.com/srdtrk/cw-ica-controller) ⭐ 43 | 🐛 5 | 🌐 Go | 📅 2024-10-27 -
   A controller contract for the Interchain Accounts
-  ([ICS-27](https://github.com/cosmos/ibc/blob/main/spec/app/ics-027-interchain-accounts/README.md) ⭐ 1,021 | 🐛 97 | 🌐 Go | 📅 2026-10-19)
+  ([ICS-27](https://github.com/cosmos/ibc/blob/main/spec/app/ics-027-interchain-accounts/README.md) ⭐ 1,021 | 🐛 94 | 🌐 Go | 📅 2026-10-20)
   spec. It allows users to create and manage interchain accounts on host chains that support the golang
   implementation of ICS-27.
 * [mars-protocol/v1-core](https://github.com/mars-protocol/v1-core) - Delphi's
@@ -189,20 +189,20 @@ These projects/contracts are developed and maintained by CosmWasm community.
 
 ## Tooling
 
-* [cosmology-tech/create-cosmos-app](https://github.com/cosmology-tech/create-cosmos-app) ⭐ 165 | 🐛 40 | 🌐 TypeScript | 📅 2025-12-11 -
+* [cosmology-tech/create-cosmos-app](https://github.com/cosmology-tech/create-cosmos-app) ⭐ 166 | 🐛 40 | 🌐 TypeScript | 📅 2025-12-11 -
   set up a modern Cosmos app with one command, ready to be iterated on.
 * [cosmwasm/rust-optimizer](https://github.com/CosmWasm/rust-optimizer) ⭐ 145 | 🐛 11 | 🌐 Rust | 📅 2025-06-26 - This is
   a Docker build with a locked set of dependencies to produce reproducible
   builds of cosmwasm smart contracts. It also does heavy optimization on the
   build size, using binary stripping and `wasm-opt`.
-* [cosmwasm/ts-codegen](https://github.com/CosmWasm/ts-codegen) ⭐ 126 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-01 - Convert your CosmWasm smart contracts into dev-friendly TypeScript classes so you can focus on shipping code.
+* [cosmwasm/ts-codegen](https://github.com/CosmWasm/ts-codegen) ⭐ 127 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-01 - Convert your CosmWasm smart contracts into dev-friendly TypeScript classes so you can focus on shipping code.
 * [beaker](https://github.com/osmosis-labs/beaker) ⭐ 106 | 🐛 34 | 🌐 Rust | 📅 2024-01-22 - A toolkit that simplifies interactions with CosmWasm smart contracts which offers scaffolding, deployment, upgrades, execution, querying, an interactive console, and task scripting capabilities.
 * [cw-orchestrator](https://github.com/AbstractSDK/cw-orchestrator) ⭐ 80 | 🐛 19 | 🌐 Rust | 📅 2026-03-05 - A Rust-oriented CosmWasm scripting library that features a clean and unified syntax for interacting
   with contracts in any environment.
 * [mandrean/cw-optimizoor](https://github.com/mandrean/cw-optimizoor) ⭐ 48 | 🐛 8 | 🌐 Rust | 📅 2026-03-22 - A very
   fast alternative to `rust-optimizer` for local development and testing.
   Written in Rust, no dependency on Docker.
-* [Terran-One/cosmwasm-vm-js](https://github.com/terran-one/cosmwasm-vm-js) ⭐ 44 | 🐛 2 | 🌐 TypeScript | 📅 2023-01-09 - A JavaScript runtime for running CosmWasm contracts in Node.js or the browser.
+* [Terran-One/cosmwasm-vm-js](https://github.com/terran-one/cosmwasm-vm-js) ⭐ 45 | 🐛 2 | 🌐 TypeScript | 📅 2023-01-09 - A JavaScript runtime for running CosmWasm contracts in Node.js or the browser.
 * [cosmwasm devtools](https://cosmwasm.tools/)
   ([repo](https://github.com/aswever/cosmwasm-devtools) ⭐ 31 | 🐛 16 | 🌐 TypeScript | 📅 2024-05-07) -  A web-based console
   for interacting with CosmWasm smart contracts deployed locally or remotely.
@@ -224,4 +224,4 @@ Looking for dApps to feature. See
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
