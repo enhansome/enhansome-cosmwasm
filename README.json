@@ -19,7 +19,7 @@
             "open_issues": 44,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1143,
+            "stars": 1142,
             "topics": [
               "cosmos-sdk",
               "rust",
@@ -45,7 +45,7 @@
             "open_issues": 7,
             "owner": "CosmWasm",
             "repo": "cw-template",
-            "stars": 297,
+            "stars": 296,
             "topics": []
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
@@ -72,7 +72,7 @@
             "open_issues": 44,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1143,
+            "stars": 1142,
             "topics": [
               "cosmos-sdk",
               "rust",
@@ -98,7 +98,7 @@
             "open_issues": 44,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1143,
+            "stars": 1142,
             "topics": [
               "cosmos-sdk",
               "rust",
@@ -240,10 +240,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-26T13:38:12Z",
-                "open_issues": 23,
+                "open_issues": 22,
                 "owner": "CosmWasm",
                 "repo": "cw-plus",
-                "stars": 526,
+                "stars": 525,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:12:34.957Z"
@@ -263,10 +263,10 @@
                     "language": "Rust",
                     "license": "Apache-2.0",
                     "last_commit": "2026-06-26T13:38:12Z",
-                    "open_issues": 23,
+                    "open_issues": 22,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 526,
+                    "stars": 525,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
@@ -284,10 +284,10 @@
                     "language": "Rust",
                     "license": "Apache-2.0",
                     "last_commit": "2026-06-26T13:38:12Z",
-                    "open_issues": 23,
+                    "open_issues": 22,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 526,
+                    "stars": 525,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
@@ -305,10 +305,10 @@
                     "language": "Rust",
                     "license": "Apache-2.0",
                     "last_commit": "2026-06-26T13:38:12Z",
-                    "open_issues": 23,
+                    "open_issues": 22,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 526,
+                    "stars": 525,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
@@ -326,10 +326,10 @@
                     "language": "Rust",
                     "license": "Apache-2.0",
                     "last_commit": "2026-06-26T13:38:12Z",
-                    "open_issues": 23,
+                    "open_issues": 22,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 526,
+                    "stars": 525,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
@@ -347,10 +347,10 @@
                     "language": "Rust",
                     "license": "Apache-2.0",
                     "last_commit": "2026-06-26T13:38:12Z",
-                    "open_issues": 23,
+                    "open_issues": 22,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 526,
+                    "stars": 525,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
@@ -375,10 +375,10 @@
                     "language": "Rust",
                     "license": "Apache-2.0",
                     "last_commit": "2026-06-26T13:38:12Z",
-                    "open_issues": 23,
+                    "open_issues": 22,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 526,
+                    "stars": 525,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
@@ -396,10 +396,10 @@
                     "language": "Rust",
                     "license": "Apache-2.0",
                     "last_commit": "2026-06-26T13:38:12Z",
-                    "open_issues": 23,
+                    "open_issues": 22,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 526,
+                    "stars": 525,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
@@ -417,10 +417,10 @@
                     "language": "Rust",
                     "license": "Apache-2.0",
                     "last_commit": "2026-06-26T13:38:12Z",
-                    "open_issues": 23,
+                    "open_issues": 22,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 526,
+                    "stars": 525,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
@@ -438,10 +438,10 @@
                     "language": "Rust",
                     "license": "Apache-2.0",
                     "last_commit": "2026-06-26T13:38:12Z",
-                    "open_issues": 23,
+                    "open_issues": 22,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 526,
+                    "stars": 525,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
@@ -459,10 +459,10 @@
                     "language": "Rust",
                     "license": "Apache-2.0",
                     "last_commit": "2026-06-26T13:38:12Z",
-                    "open_issues": 23,
+                    "open_issues": 22,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 526,
+                    "stars": 525,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
@@ -480,10 +480,10 @@
                     "language": "Rust",
                     "license": "Apache-2.0",
                     "last_commit": "2026-06-26T13:38:12Z",
-                    "open_issues": 23,
+                    "open_issues": 22,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 526,
+                    "stars": 525,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
@@ -501,10 +501,10 @@
                     "language": "Rust",
                     "license": "Apache-2.0",
                     "last_commit": "2026-06-26T13:38:12Z",
-                    "open_issues": 23,
+                    "open_issues": 22,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 526,
+                    "stars": 525,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
@@ -743,7 +743,7 @@
             "open_issues": 11,
             "owner": "CosmWasm",
             "repo": "optimizer",
-            "stars": 145,
+            "stars": 144,
             "topics": []
           },
           "first_seen": "2026-08-28T23:12:34.957Z"
@@ -967,7 +967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T18:10:00.400Z",
+    "last_updated": "2026-10-23T17:57:54.165Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Curated list of tools, contracts, and projects working with CosmWasm",
@@ -979,7 +979,7 @@
       "open_issues": 6,
       "owner": "CosmWasm",
       "repo": "awesome-cosmwasm",
-      "stars": 272,
+      "stars": 271,
       "topics": [
         "awesome",
         "awesome-list"
