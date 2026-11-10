@@ -19,7 +19,7 @@
             "open_issues": 44,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1145,
+            "stars": 1146,
             "topics": [
               "cosmos-sdk",
               "rust",
@@ -72,7 +72,7 @@
             "open_issues": 44,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1145,
+            "stars": 1146,
             "topics": [
               "cosmos-sdk",
               "rust",
@@ -98,7 +98,7 @@
             "open_issues": 44,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1145,
+            "stars": 1146,
             "topics": [
               "cosmos-sdk",
               "rust",
@@ -586,8 +586,8 @@
             "id": 402992355,
             "language": "Rust",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-30T02:29:46Z",
-            "open_issues": 78,
+            "last_commit": "2026-11-10T20:27:21Z",
+            "open_issues": 79,
             "owner": "DA0-DA0",
             "repo": "dao-contracts",
             "stars": 218,
@@ -967,7 +967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:09:03.090Z",
+    "last_updated": "2026-11-10T20:36:31.972Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Curated list of tools, contracts, and projects working with CosmWasm",
