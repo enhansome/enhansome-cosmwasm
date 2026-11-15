@@ -80,69 +80,69 @@ which can be used as the basis for a peer-reviewed audit.
 
 ### `cw-plus` Specifications and Examples
 
-[The `cw-plus` repo](https://github.com/CosmWasm/cosmwasm-plus) ⭐ 525 | 🐛 22 | 🌐 Rust | 📅 2026-06-26 houses both
+[The `cw-plus` repo](https://github.com/CosmWasm/cosmwasm-plus) ⭐ 526 | 🐛 22 | 🌐 Rust | 📅 2026-06-26 houses both
 protocol specifications and their reference implementations. These
 implementations are meant both as examples of production-ready contracts and
 pieces you might like to use in your project as they are.
 
 #### Specifications
 
-* [cw1](https://github.com/CosmWasm/cosmwasm-plus/tree/master/packages/cw1) ⭐ 525 | 🐛 22 | 🌐 Rust | 📅 2026-06-26 -
+* [cw1](https://github.com/CosmWasm/cosmwasm-plus/tree/master/packages/cw1) ⭐ 526 | 🐛 22 | 🌐 Rust | 📅 2026-06-26 -
   proxy contracts that are meant to forward a message (probably after checking
   the sender against some form of access control), this time with the contract
   as the sender.
-* [cw2](https://github.com/CosmWasm/cw-plus/tree/main/packages/cw2) ⭐ 525 | 🐛 22 | 🌐 Rust | 📅 2026-06-26 - contract
+* [cw2](https://github.com/CosmWasm/cw-plus/tree/main/packages/cw2) ⭐ 526 | 🐛 22 | 🌐 Rust | 📅 2026-06-26 - contract
   metadata (name and version) that can be inspected directly, without querying
   the contract.
-* [cw3](https://github.com/CosmWasm/cosmwasm-plus/blob/master/packages/cw4/README.md) ⭐ 525 | 🐛 22 | 🌐 Rust | 📅 2026-06-26 -
+* [cw3](https://github.com/CosmWasm/cosmwasm-plus/blob/master/packages/cw4/README.md) ⭐ 526 | 🐛 22 | 🌐 Rust | 📅 2026-06-26 -
   multisig and voting.
-* [cw4](https://github.com/CosmWasm/cosmwasm-plus/blob/master/packages/cw4/README.md) ⭐ 525 | 🐛 22 | 🌐 Rust | 📅 2026-06-26 -
+* [cw4](https://github.com/CosmWasm/cosmwasm-plus/blob/master/packages/cw4/README.md) ⭐ 526 | 🐛 22 | 🌐 Rust | 📅 2026-06-26 -
   group membership management with weights.
-* [cw20](https://github.com/CosmWasm/cosmwasm-plus/tree/master/packages/cw20) ⭐ 525 | 🐛 22 | 🌐 Rust | 📅 2026-06-26 -
+* [cw20](https://github.com/CosmWasm/cosmwasm-plus/tree/master/packages/cw20) ⭐ 526 | 🐛 22 | 🌐 Rust | 📅 2026-06-26 -
   fungible token.
 
 #### Reference implementations
 
-* [cw1-whitelist](https://github.com/CosmWasm/cosmwasm-plus/tree/master/contracts/cw1-whitelist) ⭐ 525 | 🐛 22 | 🌐 Rust | 📅 2026-06-26
+* [cw1-whitelist](https://github.com/CosmWasm/cosmwasm-plus/tree/master/contracts/cw1-whitelist) ⭐ 526 | 🐛 22 | 🌐 Rust | 📅 2026-06-26
   by [ethanfrey](https://github.com/ethanfrey): This may be the simplest
   implementation of
-  [cw1](https://github.com/CosmWasm/cosmwasm-plus/tree/master/packages/cw1) ⭐ 525 | 🐛 22 | 🌐 Rust | 📅 2026-06-26, a
+  [cw1](https://github.com/CosmWasm/cosmwasm-plus/tree/master/packages/cw1) ⭐ 526 | 🐛 22 | 🌐 Rust | 📅 2026-06-26, a
   whitelist of addresses. It contains a set of admins that are defined upon
   creation. Any of those admins may Execute any message via the contract, per
-  the [CW1](https://github.com/CosmWasm/cosmwasm-plus/tree/master/packages/cw1) ⭐ 525 | 🐛 22 | 🌐 Rust | 📅 2026-06-26
+  the [CW1](https://github.com/CosmWasm/cosmwasm-plus/tree/master/packages/cw1) ⭐ 526 | 🐛 22 | 🌐 Rust | 📅 2026-06-26
   spec.
-* [cw1-subkeys](https://github.com/CosmWasm/cosmwasm-plus/tree/master/contracts/cw1-subkeys) ⭐ 525 | 🐛 22 | 🌐 Rust | 📅 2026-06-26
+* [cw1-subkeys](https://github.com/CosmWasm/cosmwasm-plus/tree/master/contracts/cw1-subkeys) ⭐ 526 | 🐛 22 | 🌐 Rust | 📅 2026-06-26
   by [ethanfrey](https://github.com/ethanfrey): This builds on cw1-whitelist to
   provide the first non-trivial solution. It still works like cw1-whitelist with
   a set of admins (typically 1) which have full control of the account. However,
   you can then grant a number of accounts allowances to send native tokens from
   this account.
-* [cw3-fixed-multisig](https://github.com/CosmWasm/cosmwasm-plus/tree/master/contracts/cw3-fixed-multisig) ⭐ 525 | 🐛 22 | 🌐 Rust | 📅 2026-06-26:
+* [cw3-fixed-multisig](https://github.com/CosmWasm/cosmwasm-plus/tree/master/contracts/cw3-fixed-multisig) ⭐ 526 | 🐛 22 | 🌐 Rust | 📅 2026-06-26:
   This is a simple implementation of the
-  [cw3 spec](https://github.com/CosmWasm/cosmwasm-plus/blob/master/packages/cw4/README.md) ⭐ 525 | 🐛 22 | 🌐 Rust | 📅 2026-06-26.
+  [cw3 spec](https://github.com/CosmWasm/cosmwasm-plus/blob/master/packages/cw4/README.md) ⭐ 526 | 🐛 22 | 🌐 Rust | 📅 2026-06-26.
   It is a multisig with a fixed set of addresses created upon initialization.
   Each address may have the same weight (K of N) or some may have extra voting
   power.
-* [cw3-flex-multisig](https://github.com/CosmWasm/cosmwasm-plus/tree/master/contracts/cw3-flex-multisig) ⭐ 525 | 🐛 22 | 🌐 Rust | 📅 2026-06-26:
+* [cw3-flex-multisig](https://github.com/CosmWasm/cosmwasm-plus/tree/master/contracts/cw3-flex-multisig) ⭐ 526 | 🐛 22 | 🌐 Rust | 📅 2026-06-26:
   This builds on cw3-fixed-multisig with a more powerful implementation of the
   cw3 spec. It is a multisig contract that is backed by a
-  [cw4](https://github.com/CosmWasm/cosmwasm-plus/tree/master/packages/cw4) ⭐ 525 | 🐛 22 | 🌐 Rust | 📅 2026-06-26
+  [cw4](https://github.com/CosmWasm/cosmwasm-plus/tree/master/packages/cw4) ⭐ 526 | 🐛 22 | 🌐 Rust | 📅 2026-06-26
   (group) contract, which independently maintains the voter set.
-* [cw4-group](https://github.com/CosmWasm/cosmwasm-plus/tree/master/contracts/cw4-group) ⭐ 525 | 🐛 22 | 🌐 Rust | 📅 2026-06-26:
+* [cw4-group](https://github.com/CosmWasm/cosmwasm-plus/tree/master/contracts/cw4-group) ⭐ 526 | 🐛 22 | 🌐 Rust | 📅 2026-06-26:
   This is a basic implementation of the
-  [cw4 spec](https://github.com/CosmWasm/cosmwasm-plus/blob/master/packages/cw4/README.md) ⭐ 525 | 🐛 22 | 🌐 Rust | 📅 2026-06-26.
+  [cw4 spec](https://github.com/CosmWasm/cosmwasm-plus/blob/master/packages/cw4/README.md) ⭐ 526 | 🐛 22 | 🌐 Rust | 📅 2026-06-26.
   It fulfills all elements of the spec, including the raw query lookups, and it
   designed to be used as a backing storage for cw3 compliant contracts.
-* [cw4-stake](https://github.com/CosmWasm/cosmwasm-plus/tree/master/contracts/cw4-stake) ⭐ 525 | 🐛 22 | 🌐 Rust | 📅 2026-06-26:
+* [cw4-stake](https://github.com/CosmWasm/cosmwasm-plus/tree/master/contracts/cw4-stake) ⭐ 526 | 🐛 22 | 🌐 Rust | 📅 2026-06-26:
   This is a second implementation of the
-  [cw4 spec](https://github.com/CosmWasm/cosmwasm-plus/blob/master/packages/cw4/README.md) ⭐ 525 | 🐛 22 | 🌐 Rust | 📅 2026-06-26.
+  [cw4 spec](https://github.com/CosmWasm/cosmwasm-plus/blob/master/packages/cw4/README.md) ⭐ 526 | 🐛 22 | 🌐 Rust | 📅 2026-06-26.
   It fulfills all elements of the spec, including the raw query lookups, and it
   is designed to be used as a backing storage for cw3 compliant contracts.
-* [cw20-base](https://github.com/CosmWasm/cosmwasm-plus/tree/master/contracts/cw20-base) ⭐ 525 | 🐛 22 | 🌐 Rust | 📅 2026-06-26
+* [cw20-base](https://github.com/CosmWasm/cosmwasm-plus/tree/master/contracts/cw20-base) ⭐ 526 | 🐛 22 | 🌐 Rust | 📅 2026-06-26
   by [ethanfrey](https://github.com/ethanfrey): Basic implementation of a
-  [cw20](https://github.com/CosmWasm/cosmwasm-plus/tree/master/packages/cw20) ⭐ 525 | 🐛 22 | 🌐 Rust | 📅 2026-06-26
+  [cw20](https://github.com/CosmWasm/cosmwasm-plus/tree/master/packages/cw20) ⭐ 526 | 🐛 22 | 🌐 Rust | 📅 2026-06-26
   contract. It implements the
-  [cw20](https://github.com/CosmWasm/cosmwasm-plus/blob/master/packages/cw20/README.md) ⭐ 525 | 🐛 22 | 🌐 Rust | 📅 2026-06-26
+  [cw20](https://github.com/CosmWasm/cosmwasm-plus/blob/master/packages/cw20/README.md) ⭐ 526 | 🐛 22 | 🌐 Rust | 📅 2026-06-26
   spec and is designed to be deloyed as is, or imported into other contracts to
   easily build cw20-compatible tokens with custom logic.
 
@@ -159,7 +159,7 @@ protocol. Or just as inspiration
   [`cw721 spec`](https://github.com/CosmWasm/cw-nfts/tree/main/packages/cw721) ⭐ 200 | 🐛 27 | 🌐 Rust | 📅 2026-04-01
   lives.
 * [cw-tokens](https://github.com/CosmWasm/cw-tokens) ⚠️ Archived - a few other
-  [cw20](https://github.com/CosmWasm/cosmwasm-plus/tree/master/packages/cw20) ⭐ 525 | 🐛 22 | 🌐 Rust | 📅 2026-06-26
+  [cw20](https://github.com/CosmWasm/cosmwasm-plus/tree/master/packages/cw20) ⭐ 526 | 🐛 22 | 🌐 Rust | 📅 2026-06-26
   (fungible token) contracts.
 
 ## External Projects
@@ -177,7 +177,7 @@ These projects/contracts are developed and maintained by CosmWasm community.
   a development platform with a focus on code reusability and application sovereignty.
 * [srdtrk/cw-ica-controller](https://github.com/srdtrk/cw-ica-controller) ⭐ 43 | 🐛 5 | 🌐 Go | 📅 2024-10-27 -
   A controller contract for the Interchain Accounts
-  ([ICS-27](https://github.com/cosmos/ibc/blob/main/spec/app/ics-027-interchain-accounts/README.md) ⭐ 1,023 | 🐛 117 | 🌐 Go | 📅 2026-11-13)
+  ([ICS-27](https://github.com/cosmos/ibc/blob/main/spec/app/ics-027-interchain-accounts/README.md) ⭐ 1,024 | 🐛 117 | 🌐 Go | 📅 2026-11-13)
   spec. It allows users to create and manage interchain accounts on host chains that support the golang
   implementation of ICS-27.
 * [mars-protocol/v1-core](https://github.com/mars-protocol/v1-core) - Delphi's
@@ -196,7 +196,7 @@ These projects/contracts are developed and maintained by CosmWasm community.
   builds of cosmwasm smart contracts. It also does heavy optimization on the
   build size, using binary stripping and `wasm-opt`.
 * [cosmwasm/ts-codegen](https://github.com/CosmWasm/ts-codegen) ⭐ 127 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-01 - Convert your CosmWasm smart contracts into dev-friendly TypeScript classes so you can focus on shipping code.
-* [beaker](https://github.com/osmosis-labs/beaker) ⭐ 106 | 🐛 34 | 🌐 Rust | 📅 2024-01-22 - A toolkit that simplifies interactions with CosmWasm smart contracts which offers scaffolding, deployment, upgrades, execution, querying, an interactive console, and task scripting capabilities.
+* [beaker](https://github.com/osmosis-labs/beaker) ⭐ 105 | 🐛 34 | 🌐 Rust | 📅 2024-01-22 - A toolkit that simplifies interactions with CosmWasm smart contracts which offers scaffolding, deployment, upgrades, execution, querying, an interactive console, and task scripting capabilities.
 * [cw-orchestrator](https://github.com/AbstractSDK/cw-orchestrator) ⭐ 80 | 🐛 19 | 🌐 Rust | 📅 2026-03-05 - A Rust-oriented CosmWasm scripting library that features a clean and unified syntax for interacting
   with contracts in any environment.
 * [mandrean/cw-optimizoor](https://github.com/mandrean/cw-optimizoor) ⭐ 48 | 🐛 8 | 🌐 Rust | 📅 2026-03-22 - A very
@@ -224,4 +224,4 @@ Looking for dApps to feature. See
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
