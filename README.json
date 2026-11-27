@@ -16,7 +16,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-13T16:26:31Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
             "stars": 1145,
@@ -69,7 +69,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-13T16:26:31Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
             "stars": 1145,
@@ -95,7 +95,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-13T16:26:31Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
             "stars": 1145,
@@ -243,7 +243,7 @@
                 "open_issues": 22,
                 "owner": "CosmWasm",
                 "repo": "cw-plus",
-                "stars": 525,
+                "stars": 524,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:12:34.957Z"
@@ -266,7 +266,7 @@
                     "open_issues": 22,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 525,
+                    "stars": 524,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
@@ -287,7 +287,7 @@
                     "open_issues": 22,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 525,
+                    "stars": 524,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
@@ -308,7 +308,7 @@
                     "open_issues": 22,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 525,
+                    "stars": 524,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
@@ -329,7 +329,7 @@
                     "open_issues": 22,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 525,
+                    "stars": 524,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
@@ -350,7 +350,7 @@
                     "open_issues": 22,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 525,
+                    "stars": 524,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
@@ -378,7 +378,7 @@
                     "open_issues": 22,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 525,
+                    "stars": 524,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
@@ -399,7 +399,7 @@
                     "open_issues": 22,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 525,
+                    "stars": 524,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
@@ -420,7 +420,7 @@
                     "open_issues": 22,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 525,
+                    "stars": 524,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
@@ -441,7 +441,7 @@
                     "open_issues": 22,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 525,
+                    "stars": 524,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
@@ -462,7 +462,7 @@
                     "open_issues": 22,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 525,
+                    "stars": 524,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
@@ -483,7 +483,7 @@
                     "open_issues": 22,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 525,
+                    "stars": 524,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
@@ -504,7 +504,7 @@
                     "open_issues": 22,
                     "owner": "CosmWasm",
                     "repo": "cw-plus",
-                    "stars": 525,
+                    "stars": 524,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:12:34.957Z"
@@ -537,7 +537,7 @@
                 "open_issues": 27,
                 "owner": "public-awesome",
                 "repo": "cw-nfts",
-                "stars": 200,
+                "stars": 199,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:12:34.957Z"
@@ -627,33 +627,6 @@
         },
         {
           "node_type": "item",
-          "title": "public-awesome/launchpad",
-          "description": "Stargaze provides contracts to easily create and manage new NFT collections.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Stargaze NFT and Launchpad smart contracts",
-            "homepage": null,
-            "id": 462151818,
-            "language": "Rust",
-            "license": "Apache-2.0",
-            "last_commit": "2026-07-24T10:06:26Z",
-            "open_issues": 37,
-            "owner": "public-awesome",
-            "repo": "launchpad",
-            "stars": 82,
-            "topics": [
-              "cosmos",
-              "cosmwasm",
-              "interchain",
-              "nft",
-              "smart-contracts"
-            ]
-          },
-          "first_seen": "2026-08-28T23:12:34.957Z"
-        },
-        {
-          "node_type": "item",
           "title": "AbstractSDK/abstract",
           "description": "Abstract is a development platform with a focus on code reusability and application sovereignty.",
           "children": [],
@@ -674,6 +647,33 @@
               "cosmwasm",
               "cosmwasm-framework",
               "rust",
+              "smart-contracts"
+            ]
+          },
+          "first_seen": "2026-08-28T23:12:34.957Z"
+        },
+        {
+          "node_type": "item",
+          "title": "public-awesome/launchpad",
+          "description": "Stargaze provides contracts to easily create and manage new NFT collections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Stargaze NFT and Launchpad smart contracts",
+            "homepage": null,
+            "id": 462151818,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-07-24T10:06:26Z",
+            "open_issues": 37,
+            "owner": "public-awesome",
+            "repo": "launchpad",
+            "stars": 81,
+            "topics": [
+              "cosmos",
+              "cosmwasm",
+              "interchain",
+              "nft",
               "smart-contracts"
             ]
           },
@@ -967,7 +967,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T22:35:15.410Z",
+    "last_updated": "2026-11-27T22:19:45.309Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: Curated list of tools, contracts, and projects working with CosmWasm",
@@ -979,7 +979,7 @@
       "open_issues": 6,
       "owner": "CosmWasm",
       "repo": "awesome-cosmwasm",
-      "stars": 271,
+      "stars": 270,
       "topics": [
         "awesome",
         "awesome-list"
